@@ -1,0 +1,501 @@
+customer_id,first_name,last_name,email,phone,city,state,country,plan,signup_date,birth_date,monthly_spend,is_active
+C10000,Luis,Davis,luis.davis251@outlook.com,+12129589935,New York,NY,USA,Pro,2021-10-13,1993-01-13,74.34,true
+C10001,Carol,Ramirez,carol.ramirez224@outlook.com,+12124039928,New York,NY,USA,Basic,2023-11-01,1987-01-02,26.41,false
+C10002,Joseph,Lewis,joseph.lewis7@outlook.com,+12064206514,Seattle,WA,USA,Pro,2023-05-16,1975-04-06,79.88,true
+C10003,Jennifer,Harris,jennifer.harris353@proton.me,+14156709785,San Francisco,CA,USA,Basic,2022-06-26,1996-03-15,26.60,true
+C10004,Anthony,Garcia,anthony.garcia644@proton.me,+14042711750,Atlanta,GA,USA,Basic,2023-01-11,1985-11-24,28.33,true
+C10005,Carlos,Garcia,carlos.garcia390@yahoo.com,+16173667065,Boston,MA,USA,Pro,2023-07-18,1988-07-07,97.46,true
+C10006,Susan,Moore,susan.moore176@proton.me,+14154764598,San Francisco,CA,USA,Pro,2022-05-17,1967-05-01,85.71,true
+C10007,Patricia,Anderson,patricia.anderson411@yahoo.com,+12127806155,New York,NY,USA,Pro,2021-05-16,1969-06-18,99.96,true
+C10008,Melissa,Young,melissa.young659@icloud.com,+13039629830,Denver,CO,USA,Pro,2021-10-20,1971-11-18,75.51,true
+C10009,Carol,Ramirez,carol.ramirez142@proton.me,+13033123504,Denver,CO,USA,Basic,2023-10-08,1964-01-29,34.87,true
+C10010,Laura,Ramirez,laura.ramirez611@icloud.com,+14152112876,San Francisco,CA,USA,Basic,2023-12-20,1971-04-12,37.36,true
+C10011,Melissa,Perez,melissa.perez162@icloud.com,+14154699201,San Francisco,CA,USA,Basic,2021-01-07,1992-05-22,36.26,true
+C10012,Joshua,Miller,joshua.miller520@proton.me,+12063659837,Seattle,WA,USA,Pro,2022-02-12,1966-11-09,82.92,true
+C10013,George,Lee,george.lee952@yahoo.com,+13057802290,Miami,FL,USA,Basic,2022-09-22,1970-09-28,26.77,true
+C10014,Kimberly,Jones,kimberly.jones132@icloud.com,+14048217932,Atlanta,GA,USA,Pro,2024-01-31,1967-05-29,79.48,true
+C10015,Kevin,Gonzalez,kevin.gonzalez688@yahoo.com,+12064534681,Seattle,WA,USA,Basic,2023-06-17,1983-03-20,31.34,true
+C10016,Lisa,Johnson,lisa.johnson226@gmail.com,+14044342104,Atlanta,GA,USA,Basic,2021-05-26,1991-10-02,33.42,true
+C10017,Lisa,Jones,lisa.jones686@icloud.com,+14047848744,Atlanta,GA,USA,Basic,2022-03-15,1984-03-09,27.63,true
+C10018,Andrew,Clark,andrew.clark675@icloud.com,+16179461887,Boston,MA,USA,Basic,2022-12-27,1978-12-31,30.87,true
+C10019,Patricia,Sanchez,patricia.sanchez112@outlook.com,+15123437912,Austin,TX,USA,Pro,2022-01-28,1968-07-13,88.05,true
+C10020,Sarah,Robinson,sarah.robinson78@icloud.com,+16177531241,Boston,MA,USA,Pro,2024-02-02,1964-05-23,72.70,true
+C10021,Jessica,Hernandez,jessica.hernandez219@icloud.com,+13035995345,Denver,CO,USA,Basic,2021-05-01,1967-05-21,30.50,false
+C10022,Carlos,Ramirez,carlos.ramirez499@outlook.com,+14042599883,Atlanta,GA,USA,Pro,2022-01-24,1973-04-23,77.98,true
+C10023,Daniel,Brown,daniel.brown515@proton.me,+12122824044,New York,NY,USA,Pro,2021-11-19,1962-07-20,101.46,true
+C10024,George,Jones,george.jones965@proton.me,+16178342343,Boston,MA,USA,Basic,2022-05-20,1985-12-20,33.00,false
+C10025,Diego,King,diego.king210@yahoo.com,+15128875915,Austin,TX,USA,Enterprise,2022-05-04,1971-11-30,263.52,false
+C10026,Daniel,Jones,daniel.jones577@gmail.com,+12124713170,New York,NY,USA,Basic,2021-05-31,1984-02-12,28.57,true
+C10027,John,Thomas,john.thomas449@proton.me,+15128699666,Austin,TX,USA,Basic,2022-09-12,1987-06-09,37.51,true
+C10028,Diego,Martin,diego.martin138@yahoo.com,+14157663546,San Francisco,CA,USA,Enterprise,2021-08-25,1999-11-29,234.76,true
+C10029,Carlos,Wilson,carlos.wilson650@yahoo.com,+15122522512,Austin,TX,USA,Basic,2023-11-02,1981-11-30,29.01,false
+C10030,Sarah,Williams,sarah.williams134@yahoo.com,+12129228007,New York,NY,USA,Basic,2021-11-27,1993-04-01,31.23,true
+C10031,Linda,Jones,linda.jones855@yahoo.com,+13123301685,Chicago,IL,USA,Pro,2024-04-07,1984-10-13,75.78,true
+C10032,Nancy,Williams,nancy.williams256@gmail.com,+15126163532,Austin,TX,USA,Basic,2022-12-26,1994-12-29,32.59,true
+C10033,William,Lopez,william.lopez755@yahoo.com,+13039525065,Denver,CO,USA,Basic,2023-04-24,1995-12-26,33.87,true
+C10034,William,Miller,william.miller880@icloud.com,+13036716728,Denver,CO,USA,Pro,2022-04-01,1968-12-13,96.90,true
+C10035,Joseph,Anderson,joseph.anderson409@yahoo.com,+12124856753,New York,NY,USA,Pro,2022-07-25,1998-10-09,73.29,false
+C10036,Laura,Perez,laura.perez994@yahoo.com,+12124711626,New York,NY,USA,Basic,2022-01-01,1986-01-16,37.27,true
+C10037,George,Ramirez,george.ramirez322@icloud.com,+15127904114,Austin,TX,USA,Pro,2024-05-26,1982-12-10,74.75,true
+C10038,Robert,Ramirez,robert.ramirez826@proton.me,+12122716409,New York,NY,USA,Pro,2024-10-05,1968-11-02,82.61,true
+C10039,Diego,Davis,diego.davis683@icloud.com,+12067673085,Seattle,WA,USA,Pro,2022-10-31,1978-01-18,93.13,true
+C10040,Mark,Harris,mark.harris309@icloud.com,+13124934443,Chicago,IL,USA,Pro,2024-01-28,1997-05-25,71.11,false
+C10041,Carol,Lee,carol.lee692@outlook.com,+13059533780,Miami,FL,USA,Basic,2023-11-13,1981-03-23,35.31,true
+C10042,Carlos,Allen,carlos.allen975@outlook.com,+15124033414,Austin,TX,USA,Basic,2024-10-09,1973-12-03,28.71,true
+C10043,Robert,Thomas,robert.thomas787@gmail.com,+13057894185,Miami,FL,USA,Pro,2023-07-22,1978-08-04,99.10,false
+C10044,Kimberly,Sanchez,kimberly.sanchez705@gmail.com,+16173809486,Boston,MA,USA,Basic,2021-08-07,1994-12-01,31.03,false
+C10045,Patricia,Thomas,patricia.thomas821@icloud.com,+14158096198,San Francisco,CA,USA,Basic,2024-09-29,1983-10-29,37.56,false
+C10046,Amanda,Allen,amanda.allen562@icloud.com,+13036605246,Denver,CO,USA,Pro,2021-11-22,1993-05-11,98.32,true
+C10047,Luis,Moore,luis.moore245@yahoo.com,+14044405451,Atlanta,GA,USA,Basic,2023-06-20,1963-06-23,34.38,true
+C10048,Daniel,Garcia,daniel.garcia393@outlook.com,+13125389890,Chicago,IL,USA,Basic,2022-03-15,1962-11-18,30.91,false
+C10049,Mark,Brown,mark.brown399@proton.me,+16177897232,Boston,MA,USA,Pro,2021-02-10,1998-06-06,98.93,false
+C10050,James,Thompson,james.thompson874@icloud.com,+12068174613,Seattle,WA,USA,Pro,2024-01-08,1993-07-13,94.31,false
+C10051,Joseph,Moore,joseph.moore399@yahoo.com,+13039413704,Denver,CO,USA,Basic,2024-10-01,1990-06-19,35.36,false
+C10052,David,Johnson,david.johnson679@gmail.com,+13036723977,Denver,CO,USA,Pro,2021-06-21,1988-10-30,84.64,true
+C10053,Thomas,Harris,thomas.harris335@yahoo.com,+15126315133,Austin,TX,USA,Basic,2023-02-16,1972-06-24,34.82,true
+C10054,Andrew,Johnson,andrew.johnson975@yahoo.com,+14048671659,Atlanta,GA,USA,Basic,2022-04-05,1989-02-28,26.90,true
+C10055,Jessica,Gonzalez,jessica.gonzalez245@outlook.com,+12124238619,New York,NY,USA,Pro,2023-08-28,1990-01-11,74.71,true
+C10056,Nancy,Hernandez,nancy.hernandez168@yahoo.com,+14155197149,San Francisco,CA,USA,Pro,2021-08-10,1985-12-16,71.91,false
+C10057,Richard,Jones,richard.jones792@yahoo.com,+16177791672,Boston,MA,USA,Basic,2024-05-14,1996-02-18,27.50,true
+C10058,Kevin,Ramirez,kevin.ramirez664@yahoo.com,+15127012729,Austin,TX,USA,Basic,2021-01-26,1998-02-09,30.97,false
+C10059,Nancy,Robinson,nancy.robinson752@proton.me,+13127518921,Chicago,IL,USA,Basic,2024-08-25,1972-02-12,33.24,false
+C10060,Ashley,Moore,ashley.moore851@gmail.com,+15129688613,Austin,TX,USA,Pro,2022-07-26,1999-07-19,85.35,false
+C10061,Lisa,Johnson,lisa.johnson187@icloud.com,+13055485581,Miami,FL,USA,Pro,2022-03-11,1975-12-01,96.31,true
+C10062,Michelle,Smith,michelle.smith88@outlook.com,+14044468800,Atlanta,GA,USA,Enterprise,2023-04-13,1981-11-30,279.40,false
+C10063,Steven,Johnson,steven.johnson415@outlook.com,+14156849698,San Francisco,CA,USA,Basic,2022-09-20,1989-10-13,32.85,true
+C10064,Ashley,Perez,ashley.perez278@yahoo.com,+15123976169,Austin,TX,USA,Pro,2022-05-30,1970-05-05,74.91,true
+C10065,Kevin,Lopez,kevin.lopez496@yahoo.com,+16174892647,Boston,MA,USA,Basic,2024-04-22,1994-02-06,32.19,true
+C10066,Carlos,Anderson,carlos.anderson15@proton.me,+15122555786,Austin,TX,USA,Basic,2021-09-17,1972-04-21,26.63,true
+C10067,Luis,Young,luis.young588@yahoo.com,+14153881841,San Francisco,CA,USA,Pro,2023-08-20,1981-06-22,85.02,true
+C10068,Andrew,Davis,andrew.davis76@proton.me,+14153525978,San Francisco,CA,USA,Basic,2024-07-13,1990-10-16,26.72,true
+C10069,Jessica,Davis,jessica.davis621@proton.me,+14045898381,Atlanta,GA,USA,Pro,2024-06-20,1970-02-14,95.61,false
+C10070,Karen,Ramirez,karen.ramirez62@proton.me,+12064165335,Seattle,WA,USA,Pro,2021-07-23,1994-03-19,77.67,true
+C10071,William,Thomas,william.thomas161@gmail.com,+13126815771,Chicago,IL,USA,Pro,2023-04-17,1980-03-17,92.88,true
+C10072,Joseph,Jackson,joseph.jackson465@gmail.com,+12068404241,Seattle,WA,USA,Pro,2022-04-24,1971-11-13,96.00,false
+C10073,Linda,Anderson,linda.anderson847@outlook.com,+13125145728,Chicago,IL,USA,Enterprise,2021-05-27,1962-09-04,240.63,false
+C10074,Linda,Robinson,linda.robinson966@yahoo.com,+12062821653,Seattle,WA,USA,Pro,2023-10-22,1984-03-22,86.70,false
+C10075,Daniel,Taylor,daniel.taylor985@proton.me,+12128885415,New York,NY,USA,Basic,2024-04-17,1960-12-05,37.70,true
+C10076,Barbara,Walker,barbara.walker939@yahoo.com,+14047032494,Atlanta,GA,USA,Pro,2022-01-07,1986-04-04,84.87,false
+C10077,Matthew,Clark,matthew.clark108@outlook.com,+15124957561,Austin,TX,USA,Basic,2022-11-07,1978-06-19,34.15,true
+C10078,Emily,Garcia,emily.garcia119@icloud.com,+15128739889,Austin,TX,USA,Basic,2023-11-20,1997-01-01,37.56,false
+C10079,Mark,Brown,mark.brown638@icloud.com,+16174085375,Boston,MA,USA,Pro,2024-07-04,1979-10-30,95.12,true
+C10080,Carlos,Lewis,carlos.lewis997@proton.me,+13057641224,Miami,FL,USA,Basic,2022-05-06,1991-11-03,27.94,false
+C10081,Jennifer,Anderson,jennifer.anderson121@outlook.com,+14159225479,San Francisco,CA,USA,Basic,2023-10-18,1992-02-22,29.49,false
+C10082,Andrew,Walker,andrew.walker149@icloud.com,+16173392143,Boston,MA,USA,Basic,2022-01-26,1986-11-20,32.00,true
+C10083,Mark,Perez,mark.perez3@yahoo.com,+14048759022,Atlanta,GA,USA,Basic,2022-09-04,1997-07-26,32.91,true
+C10084,Steven,Walker,steven.walker782@proton.me,+15123934912,Austin,TX,USA,Basic,2023-02-12,1980-06-04,36.92,false
+C10085,Joseph,Clark,joseph.clark485@icloud.com,+12128673492,New York,NY,USA,Basic,2023-03-02,1989-10-08,35.29,false
+C10086,Robert,Rodriguez,robert.rodriguez340@gmail.com,+14046671251,Atlanta,GA,USA,Enterprise,2023-06-21,1964-06-21,276.48,true
+C10087,Mark,Martinez,mark.martinez993@yahoo.com,+14158652315,San Francisco,CA,USA,Basic,2022-11-25,1987-12-16,34.14,true
+C10088,Laura,Harris,laura.harris909@icloud.com,+15124405708,Austin,TX,USA,Pro,2024-01-14,1961-08-11,90.61,true
+C10089,Jennifer,Ramirez,jennifer.ramirez721@gmail.com,+14152291753,San Francisco,CA,USA,Pro,2023-06-28,1967-06-18,93.03,true
+C10090,Patricia,Jackson,patricia.jackson150@outlook.com,+15123843785,Austin,TX,USA,Basic,2023-12-24,1978-06-26,32.66,true
+C10091,Jennifer,Harris,jennifer.harris598@outlook.com,+16176705183,Boston,MA,USA,Basic,2022-04-21,1980-09-07,33.50,true
+C10092,Emily,Jackson,emily.jackson453@yahoo.com,+14046345097,Atlanta,GA,USA,Basic,2024-04-18,1973-06-02,33.51,false
+C10093,Karen,Gonzalez,karen.gonzalez110@outlook.com,+13035025837,Denver,CO,USA,Pro,2023-02-21,1985-08-27,82.44,true
+C10094,Diego,Sanchez,diego.sanchez886@gmail.com,+12064934770,Seattle,WA,USA,Basic,2024-05-26,1993-06-04,31.86,true
+C10095,Joseph,Gonzalez,joseph.gonzalez739@outlook.com,+12068611645,Seattle,WA,USA,Pro,2024-07-10,1964-05-10,99.65,true
+C10096,Steven,Williams,steven.williams93@yahoo.com,+15124053165,Austin,TX,USA,Pro,2022-11-01,1993-07-12,84.23,true
+C10097,Donna,Allen,donna.allen264@icloud.com,+12063178673,Seattle,WA,USA,Pro,2022-08-28,1993-06-27,98.60,true
+C10098,Elizabeth,Anderson,elizabeth.anderson824@proton.me,+13032145332,Denver,CO,USA,Enterprise,2023-01-20,1964-01-19,302.85,true
+C10099,Emily,White,emily.white843@yahoo.com,+12062256374,Seattle,WA,USA,Pro,2021-08-10,1990-04-09,78.49,true
+C10100,Melissa,Jones,melissa.jones310@icloud.com,+13052385986,Miami,FL,USA,Enterprise,2021-08-27,1966-04-09,228.62,false
+C10101,Linda,Miller,linda.miller139@icloud.com,+16179609850,Boston,MA,USA,Pro,2023-07-19,1976-08-22,92.29,false
+C10102,Carol,Martinez,carol.martinez854@icloud.com,+13034861536,Denver,CO,USA,Pro,2024-06-14,1978-04-22,100.77,true
+C10103,Susan,Lewis,susan.lewis876@yahoo.com,+13058606876,Miami,FL,USA,Enterprise,2021-07-23,1990-10-04,260.69,true
+C10104,Sandra,Moore,sandra.moore972@icloud.com,+16178541349,Boston,MA,USA,Enterprise,2021-07-07,1989-09-23,245.23,true
+C10105,Lisa,Thomas,lisa.thomas211@gmail.com,+13124386383,Chicago,IL,USA,Pro,2024-02-10,1969-04-17,89.63,true
+C10106,George,Smith,george.smith149@outlook.com,+12063121422,Seattle,WA,USA,Pro,2024-01-12,1971-03-30,96.33,true
+C10107,James,Thompson,james.thompson17@outlook.com,+16176319619,Boston,MA,USA,Pro,2022-06-28,1962-05-08,75.11,true
+C10108,John,Walker,john.walker526@proton.me,+13058291710,Miami,FL,USA,Pro,2021-08-12,1980-04-10,87.02,true
+C10109,Emily,Johnson,emily.johnson868@icloud.com,+12129298267,New York,NY,USA,Enterprise,2023-05-24,1990-10-11,234.85,true
+C10110,Jennifer,Lee,jennifer.lee282@proton.me,+13125327240,Chicago,IL,USA,Basic,2024-07-20,1986-04-04,32.46,true
+C10111,Emily,Allen,emily.allen719@gmail.com,+13037644522,Denver,CO,USA,Basic,2024-09-02,1989-03-13,36.28,false
+C10112,Steven,Anderson,steven.anderson465@icloud.com,+13036376120,Denver,CO,USA,Basic,2023-05-02,1992-09-22,27.20,true
+C10113,Nancy,Martinez,nancy.martinez852@gmail.com,+13059567105,Miami,FL,USA,Basic,2021-07-10,1979-05-16,27.22,true
+C10114,Michelle,Brown,michelle.brown687@gmail.com,+14049687929,Atlanta,GA,USA,Pro,2023-04-22,1975-11-11,98.71,true
+C10115,Carlos,Martin,carlos.martin520@outlook.com,+15123106736,Austin,TX,USA,Basic,2021-11-13,1989-06-16,31.69,true
+C10116,Linda,Moore,linda.moore866@proton.me,+16177701430,Boston,MA,USA,Pro,2024-06-27,1987-07-10,92.43,true
+C10117,Mary,Lopez,mary.lopez317@yahoo.com,+12063467566,Seattle,WA,USA,Pro,2022-12-20,1960-04-10,76.83,true
+C10118,Elizabeth,Johnson,elizabeth.johnson221@icloud.com,+14155786105,San Francisco,CA,USA,Pro,2023-05-10,1980-05-07,81.87,true
+C10119,Brian,Garcia,brian.garcia773@proton.me,+12126537947,New York,NY,USA,Basic,2021-04-12,1990-03-26,27.05,false
+C10120,George,Lewis,george.lewis774@proton.me,+13034908972,Denver,CO,USA,Basic,2021-08-22,1975-06-26,31.09,true
+C10121,Robert,Anderson,robert.anderson57@gmail.com,+13039853248,Denver,CO,USA,Enterprise,2022-02-23,1973-07-09,318.25,true
+C10122,Carlos,Lee,carlos.lee765@icloud.com,+14159204770,San Francisco,CA,USA,Basic,2021-12-26,1965-10-17,30.51,true
+C10123,John,Sanchez,john.sanchez471@gmail.com,+12126147843,New York,NY,USA,Basic,2022-10-04,1985-10-29,31.08,true
+C10124,Linda,Sanchez,linda.sanchez176@proton.me,+12125702443,New York,NY,USA,Enterprise,2023-08-01,1997-04-27,292.79,false
+C10125,Michael,Thomas,michael.thomas537@gmail.com,+13035474630,Denver,CO,USA,Pro,2023-03-22,1999-01-18,80.90,true
+C10126,William,Jones,william.jones544@proton.me,+14049443419,Atlanta,GA,USA,Pro,2022-02-02,1994-10-26,82.14,true
+C10127,Michael,Martinez,michael.martinez617@outlook.com,+12068439095,Seattle,WA,USA,Basic,2024-09-04,1963-05-19,28.15,false
+C10128,Brian,Lewis,brian.lewis643@yahoo.com,+15126525961,Austin,TX,USA,Pro,2021-11-06,1979-09-23,73.26,true
+C10129,Carol,Brown,carol.brown318@icloud.com,+15124932257,Austin,TX,USA,Pro,2023-07-15,1961-09-08,72.90,true
+C10130,Amanda,Allen,amanda.allen568@gmail.com,+13033926267,Denver,CO,USA,Basic,2023-07-11,1996-04-29,32.73,false
+C10131,Joshua,Martinez,joshua.martinez831@yahoo.com,+12122405059,New York,NY,USA,Basic,2021-06-22,1982-08-19,33.60,false
+C10132,Steven,King,steven.king373@yahoo.com,+14045461857,Atlanta,GA,USA,Pro,2022-08-03,1977-05-18,84.02,true
+C10133,John,Perez,john.perez396@yahoo.com,+14158173463,San Francisco,CA,USA,Pro,2022-06-01,1992-06-18,98.01,true
+C10134,Jennifer,Martinez,jennifer.martinez672@icloud.com,+15122866072,Austin,TX,USA,Basic,2021-09-22,1986-09-10,34.32,false
+C10135,Melissa,Perez,melissa.perez849@proton.me,+13127206928,Chicago,IL,USA,Pro,2021-07-11,1988-12-23,92.29,true
+C10136,Nancy,Martin,nancy.martin350@icloud.com,+13123582264,Chicago,IL,USA,Enterprise,2022-01-29,1970-02-28,323.70,true
+C10137,Michael,Allen,michael.allen905@proton.me,+14049843147,Atlanta,GA,USA,Pro,2021-03-19,1989-09-10,81.74,false
+C10138,Elizabeth,Hernandez,elizabeth.hernandez790@proton.me,+13126206968,Chicago,IL,USA,Pro,2021-12-06,1992-05-07,84.93,true
+C10139,Steven,Jackson,steven.jackson245@yahoo.com,+13058948218,Miami,FL,USA,Basic,2023-08-19,1997-06-17,28.35,false
+C10140,Carlos,Harris,carlos.harris990@outlook.com,+14044561854,Atlanta,GA,USA,Pro,2022-02-13,1995-12-10,90.21,false
+C10141,Nancy,Miller,nancy.miller292@gmail.com,+14047253414,Atlanta,GA,USA,Pro,2021-11-25,1972-03-27,85.30,false
+C10142,Jennifer,Anderson,jennifer.anderson953@gmail.com,+13055824862,Miami,FL,USA,Pro,2023-04-30,1962-05-22,83.63,false
+C10143,Jennifer,White,jennifer.white954@gmail.com,+16173401627,Boston,MA,USA,Basic,2024-08-24,1975-01-15,35.28,true
+C10144,Andrew,Rodriguez,andrew.rodriguez6@gmail.com,+13053539991,Miami,FL,USA,Basic,2021-02-08,1971-06-25,28.60,false
+C10145,Linda,Jackson,linda.jackson49@outlook.com,+16176682029,Boston,MA,USA,Basic,2023-05-10,1988-08-29,35.31,true
+C10146,Kimberly,Johnson,kimberly.johnson736@outlook.com,+14045614941,Atlanta,GA,USA,Pro,2022-08-20,1979-04-03,71.15,false
+C10147,Barbara,Garcia,barbara.garcia70@proton.me,+14047191333,Atlanta,GA,USA,Enterprise,2024-01-20,1982-10-04,302.43,false
+C10148,Andrew,Williams,andrew.williams260@gmail.com,+13034462698,Denver,CO,USA,Enterprise,2023-01-02,1995-05-16,230.83,true
+C10149,David,Williams,david.williams834@outlook.com,+15123863209,Austin,TX,USA,Pro,2023-08-10,1991-03-12,86.22,true
+C10150,Emily,Williams,emily.williams811@outlook.com,+12067277524,Seattle,WA,USA,Basic,2021-03-27,1974-02-26,36.93,false
+C10151,Thomas,Williams,thomas.williams883@gmail.com,+16175768159,Boston,MA,USA,Basic,2024-09-04,1974-11-21,29.27,false
+C10152,Steven,Harris,steven.harris509@icloud.com,+15122847955,Austin,TX,USA,Enterprise,2023-01-23,1995-10-06,275.82,true
+C10153,Ashley,Lopez,ashley.lopez106@gmail.com,+14046567981,Atlanta,GA,USA,Basic,2022-11-03,1989-08-24,29.53,true
+C10154,Steven,Thompson,steven.thompson891@yahoo.com,+13052582229,Miami,FL,USA,Basic,2024-06-13,1979-07-06,29.28,false
+C10155,Nancy,Allen,nancy.allen147@proton.me,+13123292101,Chicago,IL,USA,Enterprise,2024-10-20,1995-01-18,267.74,true
+C10156,Melissa,White,melissa.white581@gmail.com,+15125797095,Austin,TX,USA,Basic,2024-05-24,1966-11-18,33.98,false
+C10157,John,Rodriguez,john.rodriguez322@yahoo.com,+14043909176,Atlanta,GA,USA,Basic,2022-05-27,1965-02-01,26.40,false
+C10158,Michelle,Davis,michelle.davis721@icloud.com,+12067024279,Seattle,WA,USA,Pro,2022-03-16,1987-06-12,80.12,true
+C10159,David,Jones,david.jones731@icloud.com,+13055276692,Miami,FL,USA,Basic,2021-06-29,1996-05-10,34.01,true
+C10160,Michelle,Jackson,michelle.jackson729@outlook.com,+12064053275,Seattle,WA,USA,Pro,2023-01-11,1982-10-27,78.19,true
+C10161,Kimberly,Johnson,kimberly.johnson378@icloud.com,+15122882077,Austin,TX,USA,Pro,2024-02-04,1965-10-27,90.44,true
+C10162,Sandra,Walker,sandra.walker420@proton.me,+14048572215,Atlanta,GA,USA,Basic,2021-06-01,1965-08-15,37.38,false
+C10163,Emily,King,emily.king849@proton.me,+15123328088,Austin,TX,USA,Basic,2024-08-03,1986-05-14,28.21,true
+C10164,Linda,King,linda.king166@yahoo.com,+13127315653,Chicago,IL,USA,Basic,2022-04-07,1975-07-10,37.09,true
+C10165,Thomas,Gonzalez,thomas.gonzalez641@yahoo.com,+14048563762,Atlanta,GA,USA,Basic,2024-06-12,1983-12-06,27.18,true
+C10166,William,Perez,william.perez30@gmail.com,+12124714453,New York,NY,USA,Pro,2021-04-04,1988-10-09,95.46,false
+C10167,Amanda,Johnson,amanda.johnson559@yahoo.com,+13059017653,Miami,FL,USA,Pro,2024-08-07,1973-07-20,86.36,true
+C10168,Emily,Jones,emily.jones426@icloud.com,+12123476121,New York,NY,USA,Basic,2023-08-10,1969-02-24,30.05,true
+C10169,Matthew,Sanchez,matthew.sanchez528@proton.me,+13123255382,Chicago,IL,USA,Pro,2021-08-06,1974-04-25,78.74,false
+C10170,Jessica,Martinez,jessica.martinez969@icloud.com,+14153636364,San Francisco,CA,USA,Basic,2024-06-14,1978-10-03,28.98,true
+C10171,Richard,Hernandez,richard.hernandez479@icloud.com,+13056029281,Miami,FL,USA,Enterprise,2022-09-24,1982-04-23,226.41,false
+C10172,Jessica,Wilson,jessica.wilson289@icloud.com,+15128888710,Austin,TX,USA,Basic,2024-05-08,1999-07-31,35.88,true
+C10173,Kevin,Smith,kevin.smith904@yahoo.com,+14152467563,San Francisco,CA,USA,Basic,2023-01-20,1994-04-07,30.78,true
+C10174,Brian,Gonzalez,brian.gonzalez76@icloud.com,+15124862946,Austin,TX,USA,Pro,2023-10-30,1980-03-14,95.26,true
+C10175,Michael,Sanchez,michael.sanchez348@proton.me,+15128169341,Austin,TX,USA,Pro,2023-01-19,1993-11-12,75.66,false
+C10176,Joshua,Williams,joshua.williams731@yahoo.com,+12128209446,New York,NY,USA,Basic,2023-08-29,1983-04-18,31.40,true
+C10177,Daniel,Lee,daniel.lee632@yahoo.com,+13127219721,Chicago,IL,USA,Basic,2024-04-30,1975-02-02,31.98,false
+C10178,Brian,Martin,brian.martin378@yahoo.com,+13057976040,Miami,FL,USA,Pro,2024-10-11,1964-11-30,102.06,true
+C10179,George,Walker,george.walker802@proton.me,+12067978871,Seattle,WA,USA,Enterprise,2024-03-28,1970-03-17,295.95,true
+C10180,Donna,Harris,donna.harris249@gmail.com,+13122198225,Chicago,IL,USA,Pro,2024-03-18,1991-06-04,74.57,true
+C10181,Mark,Martinez,mark.martinez421@proton.me,+13039532020,Denver,CO,USA,Pro,2024-06-06,1981-02-25,98.68,true
+C10182,Donna,Wilson,donna.wilson679@icloud.com,+14043778531,Atlanta,GA,USA,Basic,2023-12-13,1976-11-25,29.74,true
+C10183,Kevin,Thompson,kevin.thompson197@outlook.com,+12065045735,Seattle,WA,USA,Pro,2022-07-26,1985-01-12,80.53,true
+C10184,Kimberly,Lee,kimberly.lee957@yahoo.com,+13057567220,Miami,FL,USA,Basic,2022-08-13,1965-06-19,32.75,false
+C10185,Matthew,Martinez,matthew.martinez979@gmail.com,+12069658849,Seattle,WA,USA,Basic,2022-12-11,1979-11-04,33.71,true
+C10186,Richard,Moore,richard.moore141@gmail.com,+14044481831,Atlanta,GA,USA,Pro,2024-06-14,1993-03-26,89.64,true
+C10187,Luis,Anderson,luis.anderson339@icloud.com,+12122053587,New York,NY,USA,Basic,2021-07-25,1990-07-22,35.04,false
+C10188,Melissa,Walker,melissa.walker775@yahoo.com,+13059872465,Miami,FL,USA,Pro,2022-10-20,1972-10-20,91.51,true
+C10189,Kevin,Williams,kevin.williams858@outlook.com,+13127074052,Chicago,IL,USA,Basic,2021-03-16,1997-07-05,30.71,true
+C10190,Robert,Smith,robert.smith110@yahoo.com,+12067569590,Seattle,WA,USA,Pro,2022-08-06,1980-05-19,102.36,false
+C10191,David,Allen,david.allen829@gmail.com,+13058635215,Miami,FL,USA,Basic,2022-11-09,1967-04-16,34.58,true
+C10192,James,Perez,james.perez776@outlook.com,+12066158007,Seattle,WA,USA,Pro,2021-12-26,1987-05-28,98.15,true
+C10193,Jennifer,Sanchez,jennifer.sanchez144@icloud.com,+14155924858,San Francisco,CA,USA,Basic,2022-10-25,1971-02-16,26.18,false
+C10194,Sarah,Perez,sarah.perez587@gmail.com,+12064412017,Seattle,WA,USA,Pro,2022-06-20,1989-04-27,82.46,true
+C10195,Emily,Martin,emily.martin515@yahoo.com,+13125027021,Chicago,IL,USA,Basic,2021-08-29,1988-08-25,36.73,true
+C10196,Joseph,Rodriguez,joseph.rodriguez766@proton.me,+13056829806,Miami,FL,USA,Basic,2023-02-05,1978-08-27,34.24,true
+C10197,Jessica,Garcia,jessica.garcia721@yahoo.com,+14047609281,Atlanta,GA,USA,Basic,2021-06-09,1985-04-22,27.40,true
+C10198,Brian,Martinez,brian.martinez533@icloud.com,+13127979008,Chicago,IL,USA,Basic,2021-08-27,1990-07-07,28.48,true
+C10199,Joshua,Lewis,joshua.lewis526@icloud.com,+12126736049,New York,NY,USA,Basic,2023-07-25,1985-04-18,26.77,true
+C10200,Sandra,Taylor,sandra.taylor593@gmail.com,+12122659866,New York,NY,USA,Pro,2021-04-03,1979-01-02,81.99,true
+C10201,John,Walker,john.walker185@outlook.com,+12126307135,New York,NY,USA,Basic,2024-08-06,1992-09-17,33.59,false
+C10202,Steven,Harris,steven.harris988@proton.me,+13033213924,Denver,CO,USA,Basic,2021-09-30,1989-04-25,36.08,false
+C10203,Donna,Rodriguez,donna.rodriguez775@gmail.com,+16177577948,Boston,MA,USA,Pro,2022-09-04,1980-10-07,92.38,false
+C10204,Joseph,Thomas,joseph.thomas283@outlook.com,+13056291256,Miami,FL,USA,Basic,2021-08-20,1961-06-11,35.49,true
+C10205,Susan,Jones,susan.jones458@proton.me,+14154501724,San Francisco,CA,USA,Pro,2024-10-08,1991-07-19,98.66,false
+C10206,Steven,Anderson,steven.anderson885@gmail.com,+14044396224,Atlanta,GA,USA,Basic,2021-10-14,1982-08-08,37.62,true
+C10207,Jessica,Martin,jessica.martin534@outlook.com,+13127703869,Chicago,IL,USA,Enterprise,2023-04-27,1973-06-24,251.51,false
+C10208,Michelle,Young,michelle.young965@icloud.com,+12126183444,New York,NY,USA,Enterprise,2023-12-11,1974-04-19,293.45,true
+C10209,Anthony,Lopez,anthony.lopez870@outlook.com,+14046741944,Atlanta,GA,USA,Basic,2022-09-08,1998-06-19,34.31,false
+C10210,Mark,King,mark.king262@outlook.com,+13126607079,Chicago,IL,USA,Basic,2022-11-08,1989-01-03,27.02,true
+C10211,Kevin,Gonzalez,kevin.gonzalez690@proton.me,+12123924555,New York,NY,USA,Basic,2024-05-19,1961-10-09,36.23,false
+C10212,Susan,Perez,susan.perez16@outlook.com,+12069728846,Seattle,WA,USA,Enterprise,2022-01-25,1993-04-05,235.78,true
+C10213,George,Wilson,george.wilson566@yahoo.com,+13038646886,Denver,CO,USA,Enterprise,2022-08-03,1977-01-27,270.54,true
+C10214,Thomas,White,thomas.white478@gmail.com,+14044087073,Atlanta,GA,USA,Pro,2023-08-20,1994-03-01,97.64,true
+C10215,Mark,Williams,mark.williams17@yahoo.com,+16176275836,Boston,MA,USA,Pro,2024-02-08,1986-03-13,89.40,true
+C10216,Richard,Perez,richard.perez854@outlook.com,+16179016530,Boston,MA,USA,Basic,2023-10-20,1984-09-12,33.69,true
+C10217,Kimberly,Young,kimberly.young815@yahoo.com,+13057004015,Miami,FL,USA,Basic,2021-12-13,1966-04-12,34.46,true
+C10218,Donna,Williams,donna.williams685@gmail.com,+14158454791,San Francisco,CA,USA,Enterprise,2021-01-14,1978-07-01,237.79,true
+C10219,Elizabeth,Smith,elizabeth.smith383@gmail.com,+16178318916,Boston,MA,USA,Pro,2024-06-19,1988-08-09,92.17,false
+C10220,Mary,Smith,mary.smith13@gmail.com,+14044931280,Atlanta,GA,USA,Pro,2023-12-21,1992-05-24,79.78,false
+C10221,Barbara,Miller,barbara.miller247@outlook.com,+14155625379,San Francisco,CA,USA,Pro,2024-06-23,1983-08-13,79.08,false
+C10222,Jennifer,White,jennifer.white250@outlook.com,+13032821519,Denver,CO,USA,Basic,2022-09-07,1990-09-07,35.71,true
+C10223,Sandra,Harris,sandra.harris58@gmail.com,+13036446427,Denver,CO,USA,Pro,2021-12-17,1963-09-16,86.90,true
+C10224,Donna,Williams,donna.williams889@proton.me,+16172765593,Boston,MA,USA,Basic,2023-09-01,1972-02-28,26.64,true
+C10225,Barbara,Lee,barbara.lee602@outlook.com,+12127774939,New York,NY,USA,Enterprise,2023-03-27,1963-06-14,253.91,false
+C10226,Laura,Perez,laura.perez144@gmail.com,+13032542600,Denver,CO,USA,Pro,2023-10-23,1993-06-09,101.89,false
+C10227,Joseph,Jones,joseph.jones629@proton.me,+15128495478,Austin,TX,USA,Pro,2023-03-24,1994-09-12,81.41,false
+C10228,Kimberly,Anderson,kimberly.anderson385@icloud.com,+15125892404,Austin,TX,USA,Pro,2022-01-16,1990-06-28,89.61,true
+C10229,Jessica,Jones,jessica.jones390@outlook.com,+14152931085,San Francisco,CA,USA,Basic,2023-03-09,1974-03-16,30.28,true
+C10230,Steven,White,steven.white90@outlook.com,+12067247685,Seattle,WA,USA,Basic,2023-06-02,1980-02-18,32.56,true
+C10231,Mary,Garcia,mary.garcia612@proton.me,+15124987779,Austin,TX,USA,Pro,2022-10-27,1998-09-29,83.27,false
+C10232,Jennifer,Thomas,jennifer.thomas390@outlook.com,+14047043390,Atlanta,GA,USA,Basic,2021-10-12,1972-01-23,29.59,true
+C10233,William,Ramirez,william.ramirez496@gmail.com,+12069389123,Seattle,WA,USA,Basic,2023-01-10,1971-04-16,37.05,true
+C10234,Emily,Miller,emily.miller972@icloud.com,+13125378212,Chicago,IL,USA,Basic,2022-11-12,1997-10-01,33.29,true
+C10235,Ashley,Rodriguez,ashley.rodriguez971@outlook.com,+12066076228,Seattle,WA,USA,Basic,2023-09-09,1974-02-03,28.16,true
+C10236,Luis,Young,luis.young288@icloud.com,+16174049939,Boston,MA,USA,Basic,2023-01-18,1965-02-08,36.91,true
+C10237,Laura,Johnson,laura.johnson215@icloud.com,+13056189180,Miami,FL,USA,Enterprise,2022-08-20,1997-04-15,293.11,true
+C10238,Luis,Martin,luis.martin158@icloud.com,+16178128851,Boston,MA,USA,Basic,2023-02-12,1963-04-26,31.31,false
+C10239,Kevin,Allen,kevin.allen810@yahoo.com,+13032872791,Denver,CO,USA,Pro,2024-01-05,1986-08-21,91.27,true
+C10240,Diego,Thompson,diego.thompson46@proton.me,+13129706432,Chicago,IL,USA,Pro,2024-08-14,1990-05-22,91.54,false
+C10241,Michael,Smith,michael.smith523@proton.me,+14154268303,San Francisco,CA,USA,Basic,2024-02-17,1986-01-15,34.08,true
+C10242,Sandra,Robinson,sandra.robinson26@icloud.com,+14042872901,Atlanta,GA,USA,Basic,2021-08-03,1973-04-02,30.93,true
+C10243,Matthew,Martin,matthew.martin212@proton.me,+15126488412,Austin,TX,USA,Basic,2023-09-17,1975-08-16,31.62,true
+C10244,John,Martin,john.martin118@gmail.com,+12123684996,New York,NY,USA,Pro,2022-12-04,1989-01-24,74.56,true
+C10245,Michelle,Hernandez,michelle.hernandez982@icloud.com,+15123884053,Austin,TX,USA,Pro,2022-04-20,1995-10-14,83.90,false
+C10246,Sandra,Johnson,sandra.johnson440@icloud.com,+16174852025,Boston,MA,USA,Basic,2021-01-10,1991-08-12,28.59,true
+C10247,Kevin,Lopez,kevin.lopez469@gmail.com,+15127406134,Austin,TX,USA,Basic,2022-06-22,1990-01-31,36.11,false
+C10248,Amanda,Sanchez,amanda.sanchez866@icloud.com,+14159225873,San Francisco,CA,USA,Basic,2024-06-18,1967-09-27,35.54,true
+C10249,Laura,Rodriguez,laura.rodriguez313@gmail.com,+15127237364,Austin,TX,USA,Basic,2022-01-10,1976-09-29,34.14,false
+C10250,George,Rodriguez,george.rodriguez499@proton.me,+13037015732,Denver,CO,USA,Basic,2024-08-14,1967-10-09,32.54,true
+C10251,Barbara,Lee,barbara.lee887@yahoo.com,+13055939281,Miami,FL,USA,Pro,2021-01-20,1981-09-26,75.41,false
+C10252,Mark,Young,mark.young455@icloud.com,+13039794613,Denver,CO,USA,Pro,2021-12-09,1963-09-16,88.97,true
+C10253,Robert,Moore,robert.moore173@icloud.com,+16177079369,Boston,MA,USA,Pro,2024-03-04,1993-04-22,95.51,true
+C10254,Brian,Davis,brian.davis844@yahoo.com,+12069788231,Seattle,WA,USA,Pro,2024-01-16,1996-11-24,95.01,true
+C10255,Ashley,Miller,ashley.miller34@icloud.com,+16172898193,Boston,MA,USA,Basic,2022-06-23,1975-08-21,36.10,true
+C10256,Jessica,Wilson,jessica.wilson625@icloud.com,+15124114390,Austin,TX,USA,Pro,2021-12-06,1987-08-22,75.50,true
+C10257,Brian,Thompson,brian.thompson552@outlook.com,+14047865380,Atlanta,GA,USA,Basic,2022-10-25,1991-08-01,29.49,true
+C10258,David,Clark,david.clark888@outlook.com,+12125295055,New York,NY,USA,Enterprise,2021-09-29,1971-03-14,238.67,false
+C10259,Kimberly,Martinez,kimberly.martinez385@icloud.com,+12069872525,Seattle,WA,USA,Pro,2021-06-04,1988-06-03,96.21,false
+C10260,Joshua,Moore,joshua.moore500@yahoo.com,+15129502526,Austin,TX,USA,Basic,2024-04-06,1960-02-10,36.18,false
+C10261,Luis,Thompson,luis.thompson408@outlook.com,+14154746289,San Francisco,CA,USA,Pro,2023-05-30,1996-12-31,77.79,true
+C10262,Lisa,Rodriguez,lisa.rodriguez916@gmail.com,+13056701266,Miami,FL,USA,Pro,2021-04-05,1964-06-19,90.89,true
+C10263,William,Lewis,william.lewis982@icloud.com,+13058655945,Miami,FL,USA,Basic,2022-02-19,1990-11-20,36.65,true
+C10264,Sarah,Garcia,sarah.garcia381@outlook.com,+15129434836,Austin,TX,USA,Basic,2021-04-17,1977-10-11,33.36,false
+C10265,Melissa,Garcia,melissa.garcia489@gmail.com,+14158968291,San Francisco,CA,USA,Basic,2021-09-29,1986-08-18,28.72,true
+C10266,James,Perez,james.perez433@outlook.com,+14152912678,San Francisco,CA,USA,Enterprise,2023-09-06,1963-03-06,246.90,true
+C10267,Daniel,White,daniel.white793@outlook.com,+12067431138,Seattle,WA,USA,Basic,2024-08-06,1990-05-17,27.76,true
+C10268,Steven,Thompson,steven.thompson156@icloud.com,+16174222420,Boston,MA,USA,Pro,2024-06-15,1990-10-18,85.08,true
+C10269,David,Davis,david.davis440@yahoo.com,+13032865065,Denver,CO,USA,Basic,2021-10-14,1971-02-11,29.31,true
+C10270,Mary,Martin,mary.martin522@outlook.com,+16174459108,Boston,MA,USA,Pro,2023-03-14,1973-04-04,91.52,false
+C10271,Linda,Thomas,linda.thomas73@proton.me,+13053357337,Miami,FL,USA,Pro,2021-01-25,1976-03-13,100.61,false
+C10272,Nancy,Lopez,nancy.lopez789@gmail.com,+13054684534,Miami,FL,USA,Enterprise,2021-02-04,1986-05-07,230.83,true
+C10273,Patricia,Sanchez,patricia.sanchez730@proton.me,+14042849791,Atlanta,GA,USA,Basic,2023-05-01,1978-12-31,34.24,true
+C10274,Sarah,Garcia,sarah.garcia944@outlook.com,+12068002083,Seattle,WA,USA,Basic,2021-11-15,1984-01-23,29.89,true
+C10275,Ashley,Thomas,ashley.thomas947@icloud.com,+12122566067,New York,NY,USA,Basic,2021-08-26,1980-05-03,33.20,true
+C10276,Linda,Smith,linda.smith168@icloud.com,+13129385247,Chicago,IL,USA,Pro,2022-12-12,1983-06-17,87.44,true
+C10277,Nancy,Rodriguez,nancy.rodriguez121@gmail.com,+12067362046,Seattle,WA,USA,Pro,2022-11-18,1996-03-15,84.67,true
+C10278,Brian,Jones,brian.jones369@gmail.com,+13055763577,Miami,FL,USA,Basic,2023-10-21,1998-07-19,32.68,true
+C10279,Michael,Davis,michael.davis3@gmail.com,+16175727274,Boston,MA,USA,Pro,2021-01-26,1970-12-20,72.55,true
+C10280,Barbara,Williams,barbara.williams732@icloud.com,+14049376241,Atlanta,GA,USA,Pro,2022-04-05,1974-06-08,78.95,true
+C10281,John,White,john.white924@gmail.com,+14152477568,San Francisco,CA,USA,Pro,2022-01-03,1970-01-04,96.52,true
+C10282,Emily,Jackson,emily.jackson567@icloud.com,+12067775979,Seattle,WA,USA,Basic,2021-01-17,1976-07-19,28.43,true
+C10283,Emily,White,emily.white795@outlook.com,+13053541104,Miami,FL,USA,Enterprise,2024-01-25,1994-02-10,303.38,false
+C10284,Mary,Anderson,mary.anderson860@gmail.com,+14045856038,Atlanta,GA,USA,Basic,2022-11-18,1960-01-24,34.90,true
+C10285,Susan,King,susan.king985@gmail.com,+16172444792,Boston,MA,USA,Basic,2021-10-19,1991-12-03,29.35,false
+C10286,Nancy,Robinson,nancy.robinson518@outlook.com,+14158062020,San Francisco,CA,USA,Pro,2024-07-29,1996-10-12,83.56,false
+C10287,Diego,Rodriguez,diego.rodriguez872@yahoo.com,+16175346211,Boston,MA,USA,Basic,2023-03-16,1991-06-07,35.75,false
+C10288,Sarah,Anderson,sarah.anderson140@proton.me,+14156608635,San Francisco,CA,USA,Enterprise,2021-08-12,1966-12-21,234.62,true
+C10289,Mark,Davis,mark.davis789@outlook.com,+14043222481,Atlanta,GA,USA,Basic,2023-07-15,1973-10-30,31.47,true
+C10290,Laura,Martin,laura.martin878@yahoo.com,+12125647492,New York,NY,USA,Basic,2021-10-31,1964-02-03,34.35,true
+C10291,Laura,Martin,laura.martin179@gmail.com,+12069665093,Seattle,WA,USA,Pro,2023-04-09,1998-05-02,85.39,true
+C10292,Emily,Miller,emily.miller64@outlook.com,+13125812376,Chicago,IL,USA,Basic,2021-09-25,1968-11-20,35.65,true
+C10293,John,Johnson,john.johnson662@icloud.com,+14155393007,San Francisco,CA,USA,Basic,2021-09-21,1964-02-15,36.60,true
+C10294,Emily,Brown,emily.brown444@icloud.com,+13126363831,Chicago,IL,USA,Enterprise,2023-10-14,1961-04-28,262.22,true
+C10295,Susan,Lopez,susan.lopez905@outlook.com,+12064515835,Seattle,WA,USA,Basic,2021-03-12,1987-07-19,33.28,false
+C10296,Mark,Walker,mark.walker393@outlook.com,+12127385082,New York,NY,USA,Basic,2023-05-09,1968-12-11,33.55,true
+C10297,Anthony,Thompson,anthony.thompson497@yahoo.com,+13054763946,Miami,FL,USA,Pro,2024-03-04,1982-07-15,81.26,true
+C10298,Daniel,Anderson,daniel.anderson798@yahoo.com,+12127426856,New York,NY,USA,Pro,2021-04-30,1996-04-09,102.43,true
+C10299,William,Miller,william.miller273@proton.me,+16174247363,Boston,MA,USA,Pro,2021-04-25,1994-04-10,102.59,true
+C10300,Barbara,Lopez,barbara.lopez826@yahoo.com,+16175603328,Boston,MA,USA,Pro,2024-04-26,1961-04-07,93.33,true
+C10301,Kimberly,Martin,kimberly.martin93@gmail.com,+13127398831,Chicago,IL,USA,Basic,2022-04-22,1986-12-27,28.64,true
+C10302,Lisa,Gonzalez,lisa.gonzalez182@yahoo.com,+13129213320,Chicago,IL,USA,Basic,2021-05-02,1960-12-25,27.81,true
+C10303,Donna,White,donna.white965@icloud.com,+14155303235,San Francisco,CA,USA,Basic,2024-04-15,1964-07-13,30.00,true
+C10304,Ashley,Young,ashley.young992@proton.me,+15128813872,Austin,TX,USA,Basic,2024-06-10,1995-04-21,30.24,false
+C10305,Karen,Jackson,karen.jackson2@proton.me,+13127811530,Chicago,IL,USA,Basic,2023-03-13,1998-02-28,37.63,true
+C10306,George,Lee,george.lee107@icloud.com,+16174436682,Boston,MA,USA,Pro,2021-10-16,1974-11-08,94.65,true
+C10307,William,Garcia,william.garcia272@outlook.com,+15124622770,Austin,TX,USA,Basic,2022-05-27,1991-02-03,26.89,true
+C10308,Patricia,Harris,patricia.harris993@outlook.com,+13055599946,Miami,FL,USA,Pro,2023-04-28,1982-02-12,98.96,false
+C10309,Michael,Walker,michael.walker76@gmail.com,+16173072215,Boston,MA,USA,Basic,2022-08-27,1960-11-24,29.80,true
+C10310,William,Harris,william.harris561@gmail.com,+13126941507,Chicago,IL,USA,Pro,2022-11-24,1986-08-24,102.23,false
+C10311,Melissa,Hernandez,melissa.hernandez104@yahoo.com,+13037679849,Denver,CO,USA,Basic,2022-02-25,1968-07-09,30.85,true
+C10312,Diego,Jackson,diego.jackson51@icloud.com,+12063571893,Seattle,WA,USA,Basic,2024-03-16,1984-08-27,35.84,true
+C10313,James,Ramirez,james.ramirez678@proton.me,+14154113798,San Francisco,CA,USA,Basic,2023-09-11,1968-12-15,27.23,true
+C10314,Jennifer,Walker,jennifer.walker408@icloud.com,+14158579914,San Francisco,CA,USA,Basic,2023-09-29,1989-08-26,29.17,false
+C10315,Barbara,White,barbara.white457@gmail.com,+13034315400,Denver,CO,USA,Basic,2022-06-24,1979-09-22,31.49,true
+C10316,Elizabeth,Miller,elizabeth.miller828@proton.me,+14157661999,San Francisco,CA,USA,Pro,2023-04-28,1993-12-06,89.74,false
+C10317,Donna,Clark,donna.clark959@icloud.com,+14045062293,Atlanta,GA,USA,Pro,2024-03-18,1999-07-20,78.55,false
+C10318,Robert,Allen,robert.allen694@proton.me,+14046593832,Atlanta,GA,USA,Pro,2021-10-29,1965-05-24,101.10,true
+C10319,Susan,Gonzalez,susan.gonzalez81@icloud.com,+13128095225,Chicago,IL,USA,Basic,2022-02-18,1996-11-23,33.38,true
+C10320,John,Garcia,john.garcia566@yahoo.com,+13032129561,Denver,CO,USA,Pro,2022-07-20,1983-04-24,85.58,false
+C10321,Linda,Clark,linda.clark603@proton.me,+13123035687,Chicago,IL,USA,Basic,2021-07-25,1964-09-26,32.63,true
+C10322,Mark,Taylor,mark.taylor586@proton.me,+13036123356,Denver,CO,USA,Pro,2023-08-27,1961-09-05,76.54,false
+C10323,Robert,Sanchez,robert.sanchez51@icloud.com,+15125106094,Austin,TX,USA,Pro,2022-07-05,1976-09-15,71.74,true
+C10324,Kimberly,Miller,kimberly.miller998@icloud.com,+16178192462,Boston,MA,USA,Basic,2022-10-20,1972-02-01,34.55,true
+C10325,Steven,Wilson,steven.wilson778@proton.me,+13033622075,Denver,CO,USA,Pro,2023-02-05,1996-10-29,72.88,true
+C10326,Joshua,Sanchez,joshua.sanchez537@proton.me,+13124051944,Chicago,IL,USA,Pro,2021-03-01,1967-10-17,77.19,true
+C10327,Robert,Robinson,robert.robinson722@outlook.com,+12127177503,New York,NY,USA,Enterprise,2022-07-16,1976-07-10,306.12,true
+C10328,Laura,Johnson,laura.johnson609@icloud.com,+16177646730,Boston,MA,USA,Basic,2021-12-30,1999-01-17,31.61,true
+C10329,William,Taylor,william.taylor396@gmail.com,+14154194626,San Francisco,CA,USA,Basic,2021-11-30,1998-04-20,32.74,true
+C10330,Laura,Wilson,laura.wilson526@gmail.com,+12063353837,Seattle,WA,USA,Pro,2024-10-29,1960-05-25,86.08,true
+C10331,Joseph,Taylor,joseph.taylor727@yahoo.com,+12066705128,Seattle,WA,USA,Pro,2023-05-18,1976-11-20,98.01,true
+C10332,Emily,Martin,emily.martin407@proton.me,+14048787131,Atlanta,GA,USA,Pro,2021-07-29,1960-04-30,87.26,true
+C10333,Karen,Miller,karen.miller284@yahoo.com,+13058675895,Miami,FL,USA,Basic,2022-07-22,1971-09-18,33.71,true
+C10334,Elizabeth,King,elizabeth.king825@proton.me,+16173431417,Boston,MA,USA,Pro,2023-04-08,1989-08-18,81.20,false
+C10335,Carlos,Taylor,carlos.taylor755@gmail.com,+13033946622,Denver,CO,USA,Basic,2024-04-09,1991-10-06,37.64,true
+C10336,Laura,Walker,laura.walker866@outlook.com,+15125002599,Austin,TX,USA,Pro,2024-09-08,1999-04-26,88.74,false
+C10337,David,Taylor,david.taylor188@yahoo.com,+14044286031,Atlanta,GA,USA,Pro,2024-09-02,1964-01-03,78.12,false
+C10338,Lisa,White,lisa.white475@gmail.com,+12067972166,Seattle,WA,USA,Pro,2023-08-22,1962-05-29,98.48,false
+C10339,Richard,Allen,richard.allen391@proton.me,+14153543250,San Francisco,CA,USA,Pro,2022-09-04,1978-07-13,72.81,true
+C10340,Lisa,Clark,lisa.clark884@outlook.com,+13053816134,Miami,FL,USA,Basic,2021-06-15,1981-11-14,29.96,true
+C10341,James,Lewis,james.lewis793@outlook.com,+12069812442,Seattle,WA,USA,Basic,2024-03-26,1994-04-17,27.94,true
+C10342,Amanda,Ramirez,amanda.ramirez989@icloud.com,+13034047112,Denver,CO,USA,Basic,2023-02-25,1960-03-17,26.54,true
+C10343,Daniel,King,daniel.king5@outlook.com,+16175193112,Boston,MA,USA,Basic,2022-04-09,1991-02-09,36.27,true
+C10344,Anthony,Allen,anthony.allen844@gmail.com,+12067329587,Seattle,WA,USA,Basic,2022-09-03,1973-01-16,31.39,true
+C10345,Ashley,Rodriguez,ashley.rodriguez502@yahoo.com,+15126131313,Austin,TX,USA,Enterprise,2022-01-21,1967-05-25,318.53,true
+C10346,Joseph,Rodriguez,joseph.rodriguez604@proton.me,+16178661612,Boston,MA,USA,Pro,2021-12-13,1965-07-10,82.68,false
+C10347,Luis,Taylor,luis.taylor609@gmail.com,+14042201790,Atlanta,GA,USA,Pro,2024-09-17,1964-11-06,91.75,true
+C10348,Mark,Lewis,mark.lewis259@icloud.com,+13038451152,Denver,CO,USA,Basic,2021-11-10,1969-03-20,34.16,true
+C10349,Mark,Miller,mark.miller621@outlook.com,+14047232928,Atlanta,GA,USA,Basic,2023-05-08,1997-04-05,36.52,true
+C10350,Linda,Miller,linda.miller205@yahoo.com,+13056195839,Miami,FL,USA,Basic,2023-12-08,1969-01-17,30.25,true
+C10351,Robert,Young,robert.young493@yahoo.com,+16172912809,Boston,MA,USA,Pro,2022-04-26,1960-02-14,71.50,false
+C10352,Elizabeth,Garcia,elizabeth.garcia741@gmail.com,+14045035327,Atlanta,GA,USA,Basic,2022-06-09,1988-11-25,28.78,false
+C10353,Patricia,Miller,patricia.miller873@yahoo.com,+13126362898,Chicago,IL,USA,Pro,2023-01-08,1995-12-16,92.49,true
+C10354,Robert,Smith,robert.smith175@yahoo.com,+13124742522,Chicago,IL,USA,Pro,2023-01-03,1979-08-20,101.28,true
+C10355,Lisa,Lopez,lisa.lopez986@icloud.com,+14156897909,San Francisco,CA,USA,Basic,2022-07-11,1997-06-27,30.57,true
+C10356,Linda,Rodriguez,linda.rodriguez865@outlook.com,+12126948178,New York,NY,USA,Enterprise,2021-08-01,1978-08-30,314.86,true
+C10357,Amanda,Harris,amanda.harris884@outlook.com,+15126218220,Austin,TX,USA,Pro,2023-09-17,1981-11-23,74.67,true
+C10358,John,Taylor,john.taylor890@proton.me,+15128856542,Austin,TX,USA,Basic,2024-03-26,1992-06-19,32.65,true
+C10359,Ashley,Thomas,ashley.thomas693@icloud.com,+13058271894,Miami,FL,USA,Basic,2021-11-01,1997-08-20,35.69,true
+C10360,Melissa,Hernandez,melissa.hernandez873@icloud.com,+14045284946,Atlanta,GA,USA,Pro,2021-12-05,1963-05-11,94.85,true
+C10361,Sarah,Brown,sarah.brown659@icloud.com,+14046708277,Atlanta,GA,USA,Basic,2023-04-06,1996-08-26,28.83,false
+C10362,Jennifer,Young,jennifer.young510@gmail.com,+13057709996,Miami,FL,USA,Basic,2021-07-30,1978-02-04,30.88,true
+C10363,Jennifer,Martin,jennifer.martin671@icloud.com,+14044288445,Atlanta,GA,USA,Pro,2022-11-30,1976-04-19,97.18,true
+C10364,Michelle,Walker,michelle.walker117@gmail.com,+15125635783,Austin,TX,USA,Pro,2024-09-11,1969-12-12,71.17,true
+C10365,Michael,Williams,michael.williams842@icloud.com,+13123922978,Chicago,IL,USA,Basic,2021-08-08,1971-05-29,33.19,false
+C10366,Susan,Robinson,susan.robinson111@icloud.com,+16178023018,Boston,MA,USA,Pro,2021-04-06,1988-05-28,97.56,false
+C10367,Emily,Allen,emily.allen5@proton.me,+13127998912,Chicago,IL,USA,Enterprise,2021-04-10,1984-10-25,317.26,true
+C10368,Carol,Lopez,carol.lopez674@proton.me,+13125937859,Chicago,IL,USA,Basic,2024-05-26,1999-08-06,29.83,true
+C10369,Sarah,Sanchez,sarah.sanchez464@outlook.com,+15129669393,Austin,TX,USA,Enterprise,2021-10-10,1978-07-07,284.11,true
+C10370,Michelle,Lee,michelle.lee206@outlook.com,+14045533173,Atlanta,GA,USA,Pro,2024-07-02,1992-01-17,80.28,true
+C10371,Joshua,Lee,joshua.lee576@icloud.com,+14159277839,San Francisco,CA,USA,Pro,2024-04-08,1985-08-06,100.89,true
+C10372,Ashley,Smith,ashley.smith391@outlook.com,+14044733636,Atlanta,GA,USA,Basic,2021-04-19,1990-01-24,26.76,true
+C10373,Laura,Taylor,laura.taylor708@yahoo.com,+13125678415,Chicago,IL,USA,Pro,2022-02-22,1993-10-20,88.20,true
+C10374,Amanda,Anderson,amanda.anderson524@yahoo.com,+14045967825,Atlanta,GA,USA,Basic,2024-09-22,1962-02-08,36.85,true
+C10375,Michelle,Brown,michelle.brown208@proton.me,+12128487025,New York,NY,USA,Pro,2023-06-27,1997-03-25,78.23,true
+C10376,Richard,Jackson,richard.jackson700@gmail.com,+13053227180,Miami,FL,USA,Basic,2022-01-18,1967-10-18,34.63,true
+C10377,Ashley,Moore,ashley.moore165@proton.me,+14049263536,Atlanta,GA,USA,Basic,2022-06-07,1960-04-02,29.93,true
+C10378,Elizabeth,Lee,elizabeth.lee641@proton.me,+12127866866,New York,NY,USA,Pro,2024-09-17,1973-07-05,86.60,true
+C10379,Daniel,King,daniel.king534@gmail.com,+16177497609,Boston,MA,USA,Enterprise,2023-11-01,1967-02-24,265.53,true
+C10380,Matthew,Anderson,matthew.anderson340@yahoo.com,+16178339691,Boston,MA,USA,Pro,2022-08-25,1969-10-19,101.13,false
+C10381,Michelle,Smith,michelle.smith457@outlook.com,+14154491653,San Francisco,CA,USA,Pro,2024-08-08,1987-07-12,100.13,true
+C10382,Anthony,Davis,anthony.davis742@yahoo.com,+13035839426,Denver,CO,USA,Basic,2021-02-20,1983-03-09,35.64,false
+C10383,Kimberly,Williams,kimberly.williams198@yahoo.com,+12063719814,Seattle,WA,USA,Pro,2023-11-19,1963-09-11,101.06,true
+C10384,Luis,Jones,luis.jones793@outlook.com,+16177508130,Boston,MA,USA,Pro,2023-05-19,1997-06-26,74.38,true
+C10385,Laura,Martinez,laura.martinez340@gmail.com,+12124572154,New York,NY,USA,Basic,2021-06-29,1963-04-15,26.73,true
+C10386,Thomas,Clark,thomas.clark415@icloud.com,+13033219762,Denver,CO,USA,Basic,2022-10-10,1960-10-03,30.62,true
+C10387,Melissa,Jones,melissa.jones75@yahoo.com,+12129025937,New York,NY,USA,Pro,2023-10-27,1964-10-04,80.26,true
+C10388,Carlos,Lewis,carlos.lewis677@gmail.com,+13033397406,Denver,CO,USA,Basic,2023-08-29,1967-01-05,32.29,true
+C10389,Luis,Martinez,luis.martinez937@yahoo.com,+12063443019,Seattle,WA,USA,Pro,2021-01-23,1984-10-29,98.74,true
+C10390,James,Sanchez,james.sanchez88@yahoo.com,+14049436633,Atlanta,GA,USA,Pro,2022-03-07,1993-07-26,94.53,true
+C10391,Mark,Allen,mark.allen227@proton.me,+13128871891,Chicago,IL,USA,Basic,2022-06-02,1968-09-18,27.43,false
+C10392,Melissa,Jones,melissa.jones257@gmail.com,+12065386851,Seattle,WA,USA,Pro,2022-02-09,1992-07-19,89.45,true
+C10393,Diego,Thomas,diego.thomas72@outlook.com,+14158316008,San Francisco,CA,USA,Basic,2022-10-13,1981-10-17,31.33,true
+C10394,Brian,White,brian.white173@gmail.com,+15129298145,Austin,TX,USA,Enterprise,2022-10-04,1971-01-16,302.35,true
+C10395,Nancy,Rodriguez,nancy.rodriguez474@icloud.com,+15127642783,Austin,TX,USA,Pro,2023-01-05,1994-10-02,80.75,true
+C10396,Melissa,Garcia,melissa.garcia144@proton.me,+12068412252,Seattle,WA,USA,Pro,2022-02-07,1971-10-22,94.28,true
+C10397,Mary,Allen,mary.allen593@icloud.com,+12127645269,New York,NY,USA,Pro,2024-04-23,1969-07-17,99.74,false
+C10398,Melissa,Martinez,melissa.martinez913@proton.me,+15127222483,Austin,TX,USA,Basic,2022-08-19,1966-01-02,31.49,false
+C10399,Nancy,Allen,nancy.allen869@proton.me,+12126563608,New York,NY,USA,Pro,2021-12-06,1993-12-19,87.35,true
+C10400,Brian,Martinez,brian.martinez42@outlook.com,+13055784834,Miami,FL,USA,Enterprise,2023-09-26,1970-05-24,230.36,true
+C10401,Diego,Wilson,diego.wilson370@icloud.com,+14042406309,Atlanta,GA,USA,Enterprise,2023-08-20,1980-05-23,311.90,true
+C10402,Donna,Moore,donna.moore584@outlook.com,+12068012275,Seattle,WA,USA,Pro,2023-02-11,1989-04-27,83.06,true
+C10403,Anthony,Anderson,anthony.anderson837@yahoo.com,+14048181108,Atlanta,GA,USA,Basic,2023-09-25,1995-07-22,31.69,true
+C10404,Steven,Hernandez,steven.hernandez659@yahoo.com,+16175702938,Boston,MA,USA,Basic,2022-03-10,1966-09-27,28.27,true
+C10405,Mark,Perez,mark.perez491@icloud.com,+14156201367,San Francisco,CA,USA,Basic,2022-03-08,1986-07-02,27.97,true
+C10406,Robert,Rodriguez,robert.rodriguez525@gmail.com,+13124643949,Chicago,IL,USA,Basic,2024-03-18,1966-08-03,26.75,false
+C10407,George,Johnson,george.johnson222@icloud.com,+12063744594,Seattle,WA,USA,Enterprise,2024-05-27,1981-02-22,310.48,false
+C10408,George,Martinez,george.martinez524@yahoo.com,+13126642127,Chicago,IL,USA,Pro,2021-12-10,1992-06-26,92.76,true
+C10409,Anthony,Harris,anthony.harris208@proton.me,+13123532577,Chicago,IL,USA,Basic,2023-10-30,1990-09-12,30.97,true
+C10410,Andrew,Williams,andrew.williams121@gmail.com,+14048179835,Atlanta,GA,USA,Pro,2023-09-15,1989-07-30,75.22,true
+C10411,Laura,Ramirez,laura.ramirez896@gmail.com,+14046937246,Atlanta,GA,USA,Basic,2023-12-22,1979-03-30,28.76,true
+C10412,Carol,Miller,carol.miller489@outlook.com,+13037567695,Denver,CO,USA,Basic,2021-06-21,1972-09-15,33.04,true
+C10413,Richard,Smith,richard.smith121@proton.me,+12129046175,New York,NY,USA,Pro,2021-01-15,1976-10-27,91.78,false
+C10414,Nancy,Miller,nancy.miller600@yahoo.com,+13127786990,Chicago,IL,USA,Basic,2022-06-20,1998-05-08,32.32,true
+C10415,Laura,Sanchez,laura.sanchez803@proton.me,+16177688925,Boston,MA,USA,Basic,2023-09-16,1968-01-07,30.39,true
+C10416,Karen,Thompson,karen.thompson876@gmail.com,+13033652642,Denver,CO,USA,Pro,2022-04-16,1980-01-13,95.85,true
+C10417,Joshua,Sanchez,joshua.sanchez629@gmail.com,+15122052492,Austin,TX,USA,Pro,2021-11-26,1977-06-15,101.58,true
+C10418,Andrew,Ramirez,andrew.ramirez228@yahoo.com,+14155937564,San Francisco,CA,USA,Basic,2021-06-13,1987-04-27,26.54,true
+C10419,George,Brown,george.brown450@gmail.com,+13127305685,Chicago,IL,USA,Pro,2022-02-18,1998-02-25,91.86,true
+C10420,Robert,Allen,robert.allen630@outlook.com,+14048701004,Atlanta,GA,USA,Pro,2024-10-12,1961-08-13,82.47,true
+C10421,Jennifer,Moore,jennifer.moore405@icloud.com,+13039542124,Denver,CO,USA,Basic,2024-04-15,1968-12-25,32.11,true
+C10422,Michelle,Jackson,michelle.jackson357@yahoo.com,+14043998450,Atlanta,GA,USA,Enterprise,2022-07-21,1970-02-24,284.49,false
+C10423,Brian,Smith,brian.smith519@gmail.com,+12065482917,Seattle,WA,USA,Basic,2024-02-19,1963-03-31,31.94,true
+C10424,Kevin,Taylor,kevin.taylor577@icloud.com,+13056698548,Miami,FL,USA,Enterprise,2022-05-14,1993-12-23,257.93,true
+C10425,Andrew,Davis,andrew.davis649@outlook.com,+12065237757,Seattle,WA,USA,Basic,2024-10-18,1991-06-15,28.77,true
+C10426,Donna,Smith,donna.smith96@icloud.com,+12062773924,Seattle,WA,USA,Basic,2024-10-11,1993-08-03,35.62,false
+C10427,Daniel,Thompson,daniel.thompson276@outlook.com,+16174044847,Boston,MA,USA,Pro,2024-10-31,1968-07-12,86.87,true
+C10428,Thomas,Wilson,thomas.wilson256@proton.me,+16173222285,Boston,MA,USA,Basic,2022-12-31,1966-12-30,35.14,false
+C10429,Amanda,Smith,amanda.smith869@icloud.com,+14047885501,Atlanta,GA,USA,Enterprise,2023-01-31,1987-11-04,255.52,false
+C10430,Barbara,Allen,barbara.allen769@proton.me,+12066338836,Seattle,WA,USA,Basic,2021-09-20,1962-06-06,32.20,true
+C10431,Joshua,Thompson,joshua.thompson795@outlook.com,+13036716171,Denver,CO,USA,Pro,2023-07-26,1965-05-26,93.16,true
+C10432,James,Wilson,james.wilson334@yahoo.com,+13037615306,Denver,CO,USA,Pro,2024-06-08,1998-08-29,79.31,true
+C10433,Sarah,Walker,sarah.walker511@icloud.com,+15125816981,Austin,TX,USA,Basic,2022-03-08,1978-10-19,34.23,false
+C10434,Sarah,Lewis,sarah.lewis590@outlook.com,+13124418081,Chicago,IL,USA,Pro,2021-07-24,1992-05-01,79.63,false
+C10435,Richard,Martinez,richard.martinez10@outlook.com,+13128459470,Chicago,IL,USA,Basic,2023-05-14,1982-05-30,27.66,true
+C10436,Kimberly,Martin,kimberly.martin582@gmail.com,+12062614530,Seattle,WA,USA,Pro,2023-03-27,1964-06-09,92.92,true
+C10437,Andrew,Miller,andrew.miller267@yahoo.com,+13054636638,Miami,FL,USA,Pro,2023-01-08,1985-02-18,88.72,true
+C10438,Mark,Davis,mark.davis987@proton.me,+15128649821,Austin,TX,USA,Pro,2022-02-12,1985-11-16,89.30,true
+C10439,Carlos,Thompson,carlos.thompson500@icloud.com,+15126743373,Austin,TX,USA,Pro,2021-06-10,1977-02-03,90.49,true
+C10440,Luis,Perez,luis.perez586@icloud.com,+13034336136,Denver,CO,USA,Pro,2021-05-27,1963-07-20,76.22,true
+C10441,Melissa,Jackson,melissa.jackson405@yahoo.com,+12065719535,Seattle,WA,USA,Pro,2023-07-01,1995-01-12,98.36,false
+C10442,Mark,Hernandez,mark.hernandez129@outlook.com,+13129172311,Chicago,IL,USA,Pro,2024-09-17,1971-04-15,100.82,true
+C10443,William,Sanchez,william.sanchez960@icloud.com,+14156069584,San Francisco,CA,USA,Basic,2024-01-29,1962-05-31,26.41,true
+C10444,Michael,Taylor,michael.taylor954@icloud.com,+13124908260,Chicago,IL,USA,Basic,2022-09-26,1970-04-15,28.97,true
+C10445,David,King,david.king680@yahoo.com,+13127535463,Chicago,IL,USA,Basic,2022-10-29,1998-10-07,31.62,false
+C10446,David,Lopez,david.lopez652@proton.me,+13057466073,Miami,FL,USA,Pro,2023-06-10,1983-06-25,91.32,true
+C10447,Andrew,Anderson,andrew.anderson375@icloud.com,+14152009574,San Francisco,CA,USA,Basic,2022-06-17,1966-12-26,29.62,true
+C10448,Matthew,Jackson,matthew.jackson705@icloud.com,+13056405799,Miami,FL,USA,Pro,2023-09-05,1973-06-09,71.39,true
+C10449,James,White,james.white575@icloud.com,+16179547385,Boston,MA,USA,Basic,2023-03-20,1971-03-18,27.99,false
+C10450,Joseph,Taylor,joseph.taylor246@proton.me,+14154785664,San Francisco,CA,USA,Basic,2024-06-09,1996-03-23,34.15,true
+C10451,Mark,Gonzalez,mark.gonzalez297@gmail.com,+14154789060,San Francisco,CA,USA,Basic,2024-07-28,1980-06-04,33.27,true
+C10452,Daniel,Johnson,daniel.johnson548@gmail.com,+13123288183,Chicago,IL,USA,Basic,2022-01-16,1964-08-02,29.37,true
+C10453,Joseph,Garcia,joseph.garcia223@yahoo.com,+13127107084,Chicago,IL,USA,Basic,2023-05-11,1973-12-22,35.21,false
+C10454,Robert,Perez,robert.perez975@outlook.com,+14152739899,San Francisco,CA,USA,Pro,2021-04-25,1971-12-15,95.61,false
+C10455,Barbara,Gonzalez,barbara.gonzalez849@gmail.com,+12065948257,Seattle,WA,USA,Pro,2021-09-07,1994-06-16,93.68,true
+C10456,Robert,Gonzalez,robert.gonzalez97@proton.me,+13058976113,Miami,FL,USA,Pro,2024-09-25,1969-05-08,86.04,true
+C10457,William,Williams,william.williams260@icloud.com,+14042534568,Atlanta,GA,USA,Pro,2024-07-31,1973-05-27,77.38,true
+C10458,Jessica,Ramirez,jessica.ramirez814@yahoo.com,+15124481146,Austin,TX,USA,Basic,2024-04-12,1965-05-14,30.69,true
+C10459,Carol,Walker,carol.walker92@outlook.com,+13128336544,Chicago,IL,USA,Basic,2021-11-19,1982-06-04,27.16,true
+C10460,Patricia,Thompson,patricia.thompson811@gmail.com,+13127716690,Chicago,IL,USA,Pro,2021-09-15,1981-11-18,78.45,false
+C10461,Richard,Johnson,richard.johnson138@yahoo.com,+13037725828,Denver,CO,USA,Basic,2021-03-22,1981-10-08,34.30,false
+C10462,Richard,Lopez,richard.lopez750@icloud.com,+14047673627,Atlanta,GA,USA,Basic,2022-07-18,1998-12-02,35.74,true
+C10463,Donna,Martinez,donna.martinez270@proton.me,+13058539289,Miami,FL,USA,Basic,2023-01-22,1980-05-14,26.11,false
+C10464,Barbara,Johnson,barbara.johnson245@yahoo.com,+15125964110,Austin,TX,USA,Pro,2021-05-10,1989-07-12,101.66,false
+C10465,Michelle,Martinez,michelle.martinez657@yahoo.com,+12062681717,Seattle,WA,USA,Basic,2021-08-15,1964-04-26,32.17,true
+C10466,Barbara,Williams,barbara.williams197@gmail.com,+16175979026,Boston,MA,USA,Basic,2021-03-07,1985-08-12,33.54,true
+C10467,Patricia,White,patricia.white73@gmail.com,+16172818668,Boston,MA,USA,Pro,2022-03-04,1989-05-31,86.63,true
+C10468,Nancy,Clark,nancy.clark60@proton.me,+15122725979,Austin,TX,USA,Pro,2022-06-29,1983-09-24,72.38,true
+C10469,Susan,King,susan.king237@proton.me,+14158725075,San Francisco,CA,USA,Basic,2023-03-01,1968-07-01,28.34,true
+C10470,Michelle,Clark,michelle.clark591@yahoo.com,+14156372705,San Francisco,CA,USA,Pro,2024-10-13,1980-07-29,93.30,true
+C10471,Barbara,Sanchez,barbara.sanchez162@proton.me,+14045226319,Atlanta,GA,USA,Basic,2024-05-13,1979-11-15,36.93,true
+C10472,Mark,Ramirez,mark.ramirez577@proton.me,+15129625162,Austin,TX,USA,Pro,2022-03-15,1976-10-28,95.30,true
+C10473,Steven,Lewis,steven.lewis36@yahoo.com,+13035091107,Denver,CO,USA,Basic,2024-05-05,1960-09-24,32.10,true
+C10474,Joseph,Wilson,joseph.wilson842@yahoo.com,+15127853534,Austin,TX,USA,Basic,2024-02-08,1982-12-07,32.55,true
+C10475,Robert,Robinson,robert.robinson272@yahoo.com,+15125072505,Austin,TX,USA,Basic,2024-04-07,1971-03-17,28.80,false
+C10476,Brian,Wilson,brian.wilson812@icloud.com,+14159062562,San Francisco,CA,USA,Pro,2021-12-21,1981-11-25,97.19,true
+C10477,Robert,Harris,robert.harris944@yahoo.com,+14156262974,San Francisco,CA,USA,Pro,2022-12-14,1999-06-19,96.92,true
+C10478,Melissa,Smith,melissa.smith537@gmail.com,+13035349231,Denver,CO,USA,Basic,2022-10-16,1984-03-21,32.65,true
+C10479,Elizabeth,Brown,elizabeth.brown771@proton.me,+13036425747,Denver,CO,USA,Enterprise,2024-03-24,1982-08-22,233.07,false
+C10480,Elizabeth,Rodriguez,elizabeth.rodriguez586@gmail.com,+15126089221,Austin,TX,USA,Basic,2024-01-28,1977-11-27,29.15,false
+C10481,David,Rodriguez,david.rodriguez500@icloud.com,+13058309589,Miami,FL,USA,Pro,2024-08-28,1985-08-17,77.30,true
+C10482,Jessica,Jones,jessica.jones332@proton.me,+12066336984,Seattle,WA,USA,Pro,2021-07-03,1965-01-17,92.33,true
+C10483,Richard,Lee,richard.lee25@yahoo.com,+15126523389,Austin,TX,USA,Pro,2021-12-13,1975-09-08,90.57,false
+C10484,Robert,Anderson,robert.anderson160@gmail.com,+16178353419,Boston,MA,USA,Pro,2021-08-19,1993-03-05,72.82,true
+C10485,James,Perez,james.perez483@gmail.com,+14154164339,San Francisco,CA,USA,Basic,2022-11-11,1969-05-17,34.68,true
+C10486,Michelle,Walker,michelle.walker685@gmail.com,+13127391712,Chicago,IL,USA,Pro,2023-02-11,1986-02-24,99.73,true
+C10487,William,Brown,william.brown714@proton.me,+12062082091,Seattle,WA,USA,Basic,2022-07-10,1962-05-19,31.49,false
+C10488,Diego,Moore,diego.moore20@yahoo.com,+15125899331,Austin,TX,USA,Pro,2024-08-22,1977-05-03,78.40,true
+C10489,Daniel,Young,daniel.young204@proton.me,+14042221651,Atlanta,GA,USA,Basic,2023-07-27,1985-02-24,36.85,true
+C10490,Donna,Martin,donna.martin763@outlook.com,+15125635953,Austin,TX,USA,Basic,2021-02-07,1975-07-22,34.04,true
+C10491,Joshua,Moore,joshua.moore900@icloud.com,+12124303485,New York,NY,USA,Pro,2021-03-02,1984-11-22,101.09,true
+C10492,Sandra,Rodriguez,sandra.rodriguez534@proton.me,+14154463502,San Francisco,CA,USA,Pro,2024-07-05,1990-10-17,78.29,false
+C10493,Karen,Perez,karen.perez212@outlook.com,+13054073262,Miami,FL,USA,Pro,2024-04-04,1984-04-13,92.72,true
+C10494,Donna,Rodriguez,donna.rodriguez789@outlook.com,+13035252111,Denver,CO,USA,Enterprise,2024-09-05,1985-05-03,315.44,true
+C10495,Barbara,Lee,barbara.lee784@yahoo.com,+13129635485,Chicago,IL,USA,Pro,2023-04-28,1978-06-12,80.69,true
+C10496,Richard,Miller,richard.miller781@proton.me,+13128274783,Chicago,IL,USA,Basic,2024-06-17,1971-12-21,33.13,true
+C10497,Joseph,Johnson,joseph.johnson799@icloud.com,+15126807126,Austin,TX,USA,Basic,2021-10-02,1982-07-14,35.92,true
+C10498,Anthony,Young,anthony.young198@outlook.com,+13052155421,Miami,FL,USA,Basic,2021-03-08,1978-04-30,34.97,false
+C10499,Joseph,Gonzalez,joseph.gonzalez950@icloud.com,+16176685043,Boston,MA,USA,Basic,2024-06-17,1981-12-23,34.08,false

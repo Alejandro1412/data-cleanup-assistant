@@ -1,0 +1,2291 @@
+[
+  {
+    "row": 0,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+16176705183",
+    "duplicate_of": null
+  },
+  {
+    "row": 5,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+13058606876",
+    "duplicate_of": null
+  },
+  {
+    "row": 5,
+    "category": "date_format",
+    "column": "signup_date",
+    "expected": "2021-07-23",
+    "duplicate_of": null
+  },
+  {
+    "row": 6,
+    "category": "missing",
+    "column": "city",
+    "expected": null,
+    "duplicate_of": null
+  },
+  {
+    "row": 7,
+    "category": "missing",
+    "column": "city",
+    "expected": null,
+    "duplicate_of": null
+  },
+  {
+    "row": 7,
+    "category": "category_variant:United States",
+    "column": "country",
+    "expected": "USA",
+    "duplicate_of": null
+  },
+  {
+    "row": 7,
+    "category": "category_case",
+    "column": "plan",
+    "expected": "Basic",
+    "duplicate_of": null
+  },
+  {
+    "row": 8,
+    "category": "category_case",
+    "column": "plan",
+    "expected": "Basic",
+    "duplicate_of": null
+  },
+  {
+    "row": 11,
+    "category": "whitespace",
+    "column": "first_name",
+    "expected": "Emily",
+    "duplicate_of": null
+  },
+  {
+    "row": 13,
+    "category": "whitespace",
+    "column": "first_name",
+    "expected": "Michelle",
+    "duplicate_of": null
+  },
+  {
+    "row": 14,
+    "category": "near_duplicate",
+    "column": null,
+    "expected": null,
+    "duplicate_of": "C10284"
+  },
+  {
+    "row": 16,
+    "category": "null_token",
+    "column": "phone",
+    "expected": "",
+    "duplicate_of": null
+  },
+  {
+    "row": 20,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+15129688613",
+    "duplicate_of": null
+  },
+  {
+    "row": 21,
+    "category": "exact_duplicate",
+    "column": null,
+    "expected": null,
+    "duplicate_of": "C10243"
+  },
+  {
+    "row": 22,
+    "category": "invalid_email",
+    "column": "email",
+    "expected": "steven.harris988@proton.me",
+    "duplicate_of": null
+  },
+  {
+    "row": 25,
+    "category": "near_duplicate",
+    "column": null,
+    "expected": null,
+    "duplicate_of": "C10405"
+  },
+  {
+    "row": 26,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+13058976113",
+    "duplicate_of": null
+  },
+  {
+    "row": 26,
+    "category": "category_case",
+    "column": "plan",
+    "expected": "Pro",
+    "duplicate_of": null
+  },
+  {
+    "row": 28,
+    "category": "email_case",
+    "column": "email",
+    "expected": "donna.moore584@outlook.com",
+    "duplicate_of": null
+  },
+  {
+    "row": 29,
+    "category": "category_variant:United States",
+    "column": "country",
+    "expected": "USA",
+    "duplicate_of": null
+  },
+  {
+    "row": 30,
+    "category": "date_format",
+    "column": "signup_date",
+    "expected": "2021-06-04",
+    "duplicate_of": null
+  },
+  {
+    "row": 33,
+    "category": "exact_duplicate",
+    "column": null,
+    "expected": null,
+    "duplicate_of": "C10245"
+  },
+  {
+    "row": 34,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+12063121422",
+    "duplicate_of": null
+  },
+  {
+    "row": 36,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+15124622770",
+    "duplicate_of": null
+  },
+  {
+    "row": 38,
+    "category": "whitespace",
+    "column": "first_name",
+    "expected": "Jessica",
+    "duplicate_of": null
+  },
+  {
+    "row": 38,
+    "category": "email_case",
+    "column": "email",
+    "expected": "jessica.hernandez219@icloud.com",
+    "duplicate_of": null
+  },
+  {
+    "row": 41,
+    "category": "email_case",
+    "column": "email",
+    "expected": "steven.thompson156@icloud.com",
+    "duplicate_of": null
+  },
+  {
+    "row": 41,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+16174222420",
+    "duplicate_of": null
+  },
+  {
+    "row": 41,
+    "category": "date_format",
+    "column": "signup_date",
+    "expected": "2024-06-15",
+    "duplicate_of": null
+  },
+  {
+    "row": 44,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+13127107084",
+    "duplicate_of": null
+  },
+  {
+    "row": 45,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+14046593832",
+    "duplicate_of": null
+  },
+  {
+    "row": 46,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+13039794613",
+    "duplicate_of": null
+  },
+  {
+    "row": 48,
+    "category": "whitespace",
+    "column": "first_name",
+    "expected": "Carol",
+    "duplicate_of": null
+  },
+  {
+    "row": 52,
+    "category": "near_duplicate",
+    "column": null,
+    "expected": null,
+    "duplicate_of": "C10036"
+  },
+  {
+    "row": 53,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+12124039928",
+    "duplicate_of": null
+  },
+  {
+    "row": 56,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+13056029281",
+    "duplicate_of": null
+  },
+  {
+    "row": 57,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+12063659837",
+    "duplicate_of": null
+  },
+  {
+    "row": 57,
+    "category": "date_format",
+    "column": "signup_date",
+    "expected": "2022-02-12",
+    "duplicate_of": null
+  },
+  {
+    "row": 59,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+12064934770",
+    "duplicate_of": null
+  },
+  {
+    "row": 64,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+14046741944",
+    "duplicate_of": null
+  },
+  {
+    "row": 65,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+13055599946",
+    "duplicate_of": null
+  },
+  {
+    "row": 69,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+16172444792",
+    "duplicate_of": null
+  },
+  {
+    "row": 70,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+14048787131",
+    "duplicate_of": null
+  },
+  {
+    "row": 71,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+13057976040",
+    "duplicate_of": null
+  },
+  {
+    "row": 73,
+    "category": "exact_duplicate",
+    "column": null,
+    "expected": null,
+    "duplicate_of": "C10451"
+  },
+  {
+    "row": 75,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+15127012729",
+    "duplicate_of": null
+  },
+  {
+    "row": 78,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+14158652315",
+    "duplicate_of": null
+  },
+  {
+    "row": 79,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+13123288183",
+    "duplicate_of": null
+  },
+  {
+    "row": 81,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+13032542600",
+    "duplicate_of": null
+  },
+  {
+    "row": 85,
+    "category": "whitespace",
+    "column": "first_name",
+    "expected": "Michelle",
+    "duplicate_of": null
+  },
+  {
+    "row": 86,
+    "category": "missing",
+    "column": "city",
+    "expected": null,
+    "duplicate_of": null
+  },
+  {
+    "row": 87,
+    "category": "date_format",
+    "column": "signup_date",
+    "expected": "2023-03-24",
+    "duplicate_of": null
+  },
+  {
+    "row": 87,
+    "category": "category_case",
+    "column": "plan",
+    "expected": "Pro",
+    "duplicate_of": null
+  },
+  {
+    "row": 88,
+    "category": "missing",
+    "column": "city",
+    "expected": null,
+    "duplicate_of": null
+  },
+  {
+    "row": 88,
+    "category": "number_format",
+    "column": "monthly_spend",
+    "expected": "97.18",
+    "duplicate_of": null
+  },
+  {
+    "row": 90,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+12065719535",
+    "duplicate_of": null
+  },
+  {
+    "row": 92,
+    "category": "category_variant:U.S.A.",
+    "column": "country",
+    "expected": "USA",
+    "duplicate_of": null
+  },
+  {
+    "row": 92,
+    "category": "born_after_signup",
+    "column": "birth_date",
+    "expected": null,
+    "duplicate_of": null
+  },
+  {
+    "row": 93,
+    "category": "category_variant:United States",
+    "column": "country",
+    "expected": "USA",
+    "duplicate_of": null
+  },
+  {
+    "row": 94,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+13129635485",
+    "duplicate_of": null
+  },
+  {
+    "row": 100,
+    "category": "category_variant:usa",
+    "column": "country",
+    "expected": "USA",
+    "duplicate_of": null
+  },
+  {
+    "row": 103,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+16174049939",
+    "duplicate_of": null
+  },
+  {
+    "row": 104,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+14158316008",
+    "duplicate_of": null
+  },
+  {
+    "row": 104,
+    "category": "category_variant:United States",
+    "column": "country",
+    "expected": "USA",
+    "duplicate_of": null
+  },
+  {
+    "row": 105,
+    "category": "whitespace",
+    "column": "first_name",
+    "expected": "Matthew",
+    "duplicate_of": null
+  },
+  {
+    "row": 107,
+    "category": "category_variant:United States",
+    "column": "country",
+    "expected": "USA",
+    "duplicate_of": null
+  },
+  {
+    "row": 108,
+    "category": "null_token",
+    "column": "phone",
+    "expected": "",
+    "duplicate_of": null
+  },
+  {
+    "row": 113,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+13055763577",
+    "duplicate_of": null
+  },
+  {
+    "row": 114,
+    "category": "near_duplicate",
+    "column": null,
+    "expected": null,
+    "duplicate_of": "C10365"
+  },
+  {
+    "row": 115,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+14156069584",
+    "duplicate_of": null
+  },
+  {
+    "row": 116,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+14159225479",
+    "duplicate_of": null
+  },
+  {
+    "row": 117,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+14048759022",
+    "duplicate_of": null
+  },
+  {
+    "row": 119,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+14156849698",
+    "duplicate_of": null
+  },
+  {
+    "row": 120,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+14155924858",
+    "duplicate_of": null
+  },
+  {
+    "row": 122,
+    "category": "invalid_email",
+    "column": "email",
+    "expected": "emily.brown444@icloud.com",
+    "duplicate_of": null
+  },
+  {
+    "row": 125,
+    "category": "implausible_year",
+    "column": "birth_date",
+    "expected": null,
+    "duplicate_of": null
+  },
+  {
+    "row": 127,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+15126525961",
+    "duplicate_of": null
+  },
+  {
+    "row": 129,
+    "category": "implausible_year",
+    "column": "birth_date",
+    "expected": null,
+    "duplicate_of": null
+  },
+  {
+    "row": 131,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+14046937246",
+    "duplicate_of": null
+  },
+  {
+    "row": 133,
+    "category": "category_variant:United States",
+    "column": "country",
+    "expected": "USA",
+    "duplicate_of": null
+  },
+  {
+    "row": 135,
+    "category": "category_variant:U.S.A.",
+    "column": "country",
+    "expected": "USA",
+    "duplicate_of": null
+  },
+  {
+    "row": 136,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+13058539289",
+    "duplicate_of": null
+  },
+  {
+    "row": 136,
+    "category": "date_format",
+    "column": "signup_date",
+    "expected": "2023-01-22",
+    "duplicate_of": null
+  },
+  {
+    "row": 137,
+    "category": "exact_duplicate",
+    "column": null,
+    "expected": null,
+    "duplicate_of": "C10232"
+  },
+  {
+    "row": 138,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+13127398831",
+    "duplicate_of": null
+  },
+  {
+    "row": 140,
+    "category": "category_variant:United States",
+    "column": "country",
+    "expected": "USA",
+    "duplicate_of": null
+  },
+  {
+    "row": 142,
+    "category": "category_case",
+    "column": "plan",
+    "expected": "Enterprise",
+    "duplicate_of": null
+  },
+  {
+    "row": 143,
+    "category": "null_token",
+    "column": "phone",
+    "expected": "",
+    "duplicate_of": null
+  },
+  {
+    "row": 143,
+    "category": "implausible_year",
+    "column": "birth_date",
+    "expected": null,
+    "duplicate_of": null
+  },
+  {
+    "row": 144,
+    "category": "null_token",
+    "column": "phone",
+    "expected": "",
+    "duplicate_of": null
+  },
+  {
+    "row": 145,
+    "category": "category_variant:U.S.A.",
+    "column": "country",
+    "expected": "USA",
+    "duplicate_of": null
+  },
+  {
+    "row": 146,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+16174247363",
+    "duplicate_of": null
+  },
+  {
+    "row": 147,
+    "category": "category_case",
+    "column": "plan",
+    "expected": "Basic",
+    "duplicate_of": null
+  },
+  {
+    "row": 150,
+    "category": "near_duplicate",
+    "column": null,
+    "expected": null,
+    "duplicate_of": "C10407"
+  },
+  {
+    "row": 152,
+    "category": "date_format",
+    "column": "signup_date",
+    "expected": "2022-03-04",
+    "duplicate_of": null
+  },
+  {
+    "row": 152,
+    "category": "outlier",
+    "column": "monthly_spend",
+    "expected": null,
+    "duplicate_of": null
+  },
+  {
+    "row": 152,
+    "category": "implausible_year",
+    "column": "birth_date",
+    "expected": null,
+    "duplicate_of": null
+  },
+  {
+    "row": 153,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+14044286031",
+    "duplicate_of": null
+  },
+  {
+    "row": 159,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+12068412252",
+    "duplicate_of": null
+  },
+  {
+    "row": 161,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+14044733636",
+    "duplicate_of": null
+  },
+  {
+    "row": 162,
+    "category": "number_format",
+    "column": "monthly_spend",
+    "expected": "34.68",
+    "duplicate_of": null
+  },
+  {
+    "row": 163,
+    "category": "whitespace",
+    "column": "first_name",
+    "expected": "Elizabeth",
+    "duplicate_of": null
+  },
+  {
+    "row": 163,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+15126089221",
+    "duplicate_of": null
+  },
+  {
+    "row": 163,
+    "category": "category_variant:United States",
+    "column": "country",
+    "expected": "USA",
+    "duplicate_of": null
+  },
+  {
+    "row": 164,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+14046708277",
+    "duplicate_of": null
+  },
+  {
+    "row": 166,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+14157663546",
+    "duplicate_of": null
+  },
+  {
+    "row": 167,
+    "category": "date_format",
+    "column": "signup_date",
+    "expected": "2023-06-20",
+    "duplicate_of": null
+  },
+  {
+    "row": 169,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+14048563762",
+    "duplicate_of": null
+  },
+  {
+    "row": 173,
+    "category": "number_format",
+    "column": "monthly_spend",
+    "expected": "32.74",
+    "duplicate_of": null
+  },
+  {
+    "row": 174,
+    "category": "invalid_email",
+    "column": "email",
+    "expected": "carlos.ramirez499@outlook.com",
+    "duplicate_of": null
+  },
+  {
+    "row": 174,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+14042599883",
+    "duplicate_of": null
+  },
+  {
+    "row": 174,
+    "category": "category_variant:United States",
+    "column": "country",
+    "expected": "USA",
+    "duplicate_of": null
+  },
+  {
+    "row": 177,
+    "category": "date_format",
+    "column": "signup_date",
+    "expected": "2023-08-20",
+    "duplicate_of": null
+  },
+  {
+    "row": 179,
+    "category": "exact_duplicate",
+    "column": null,
+    "expected": null,
+    "duplicate_of": "C10015"
+  },
+  {
+    "row": 181,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+15122847955",
+    "duplicate_of": null
+  },
+  {
+    "row": 182,
+    "category": "category_case",
+    "column": "plan",
+    "expected": "Pro",
+    "duplicate_of": null
+  },
+  {
+    "row": 183,
+    "category": "null_token",
+    "column": "phone",
+    "expected": "",
+    "duplicate_of": null
+  },
+  {
+    "row": 183,
+    "category": "category_variant:United States",
+    "column": "country",
+    "expected": "USA",
+    "duplicate_of": null
+  },
+  {
+    "row": 184,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+12067024279",
+    "duplicate_of": null
+  },
+  {
+    "row": 184,
+    "category": "date_format",
+    "column": "signup_date",
+    "expected": "2022-03-16",
+    "duplicate_of": null
+  },
+  {
+    "row": 184,
+    "category": "number_format",
+    "column": "monthly_spend",
+    "expected": "80.12",
+    "duplicate_of": null
+  },
+  {
+    "row": 185,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+14154764598",
+    "duplicate_of": null
+  },
+  {
+    "row": 188,
+    "category": "whitespace",
+    "column": "first_name",
+    "expected": "Ashley",
+    "duplicate_of": null
+  },
+  {
+    "row": 188,
+    "category": "category_variant:U.S.A.",
+    "column": "country",
+    "expected": "USA",
+    "duplicate_of": null
+  },
+  {
+    "row": 189,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+13124742522",
+    "duplicate_of": null
+  },
+  {
+    "row": 190,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+12069658849",
+    "duplicate_of": null
+  },
+  {
+    "row": 192,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+14043222481",
+    "duplicate_of": null
+  },
+  {
+    "row": 193,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+13057709996",
+    "duplicate_of": null
+  },
+  {
+    "row": 197,
+    "category": "email_case",
+    "column": "email",
+    "expected": "sarah.garcia944@outlook.com",
+    "duplicate_of": null
+  },
+  {
+    "row": 200,
+    "category": "category_variant:U.S.A.",
+    "column": "country",
+    "expected": "USA",
+    "duplicate_of": null
+  },
+  {
+    "row": 201,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+16177577948",
+    "duplicate_of": null
+  },
+  {
+    "row": 202,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+14044087073",
+    "duplicate_of": null
+  },
+  {
+    "row": 203,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+12064206514",
+    "duplicate_of": null
+  },
+  {
+    "row": 203,
+    "category": "category_variant:usa",
+    "column": "country",
+    "expected": "USA",
+    "duplicate_of": null
+  },
+  {
+    "row": 204,
+    "category": "implausible_year",
+    "column": "birth_date",
+    "expected": null,
+    "duplicate_of": null
+  },
+  {
+    "row": 206,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+14154463502",
+    "duplicate_of": null
+  },
+  {
+    "row": 209,
+    "category": "date_format",
+    "column": "signup_date",
+    "expected": "2023-02-11",
+    "duplicate_of": null
+  },
+  {
+    "row": 210,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+14045062293",
+    "duplicate_of": null
+  },
+  {
+    "row": 212,
+    "category": "category_variant:U.S.A.",
+    "column": "country",
+    "expected": "USA",
+    "duplicate_of": null
+  },
+  {
+    "row": 217,
+    "category": "date_format",
+    "column": "signup_date",
+    "expected": "2022-11-09",
+    "duplicate_of": null
+  },
+  {
+    "row": 220,
+    "category": "number_format",
+    "column": "monthly_spend",
+    "expected": "81.87",
+    "duplicate_of": null
+  },
+  {
+    "row": 221,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+14156372705",
+    "duplicate_of": null
+  },
+  {
+    "row": 224,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+14154785664",
+    "duplicate_of": null
+  },
+  {
+    "row": 225,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+15128875915",
+    "duplicate_of": null
+  },
+  {
+    "row": 225,
+    "category": "category_case",
+    "column": "plan",
+    "expected": "Enterprise",
+    "duplicate_of": null
+  },
+  {
+    "row": 229,
+    "category": "email_case",
+    "column": "email",
+    "expected": "james.perez433@outlook.com",
+    "duplicate_of": null
+  },
+  {
+    "row": 230,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+15127222483",
+    "duplicate_of": null
+  },
+  {
+    "row": 230,
+    "category": "date_format",
+    "column": "signup_date",
+    "expected": "2022-08-19",
+    "duplicate_of": null
+  },
+  {
+    "row": 234,
+    "category": "date_format",
+    "column": "signup_date",
+    "expected": "2024-07-20",
+    "duplicate_of": null
+  },
+  {
+    "row": 235,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+16179016530",
+    "duplicate_of": null
+  },
+  {
+    "row": 236,
+    "category": "near_duplicate",
+    "column": null,
+    "expected": null,
+    "duplicate_of": "C10418"
+  },
+  {
+    "row": 239,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+13125378212",
+    "duplicate_of": null
+  },
+  {
+    "row": 242,
+    "category": "date_format",
+    "column": "signup_date",
+    "expected": "2023-10-30",
+    "duplicate_of": null
+  },
+  {
+    "row": 243,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+12069788231",
+    "duplicate_of": null
+  },
+  {
+    "row": 243,
+    "category": "missing",
+    "column": "city",
+    "expected": null,
+    "duplicate_of": null
+  },
+  {
+    "row": 245,
+    "category": "category_case",
+    "column": "plan",
+    "expected": "Basic",
+    "duplicate_of": null
+  },
+  {
+    "row": 246,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+12063178673",
+    "duplicate_of": null
+  },
+  {
+    "row": 246,
+    "category": "date_format",
+    "column": "signup_date",
+    "expected": "2022-08-28",
+    "duplicate_of": null
+  },
+  {
+    "row": 247,
+    "category": "number_format",
+    "column": "monthly_spend",
+    "expected": "98.71",
+    "duplicate_of": null
+  },
+  {
+    "row": 248,
+    "category": "exact_duplicate",
+    "column": null,
+    "expected": null,
+    "duplicate_of": "C10249"
+  },
+  {
+    "row": 250,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+14048181108",
+    "duplicate_of": null
+  },
+  {
+    "row": 251,
+    "category": "whitespace",
+    "column": "first_name",
+    "expected": "Richard",
+    "duplicate_of": null
+  },
+  {
+    "row": 253,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+13056698548",
+    "duplicate_of": null
+  },
+  {
+    "row": 253,
+    "category": "date_format",
+    "column": "signup_date",
+    "expected": "2022-05-14",
+    "duplicate_of": null
+  },
+  {
+    "row": 254,
+    "category": "number_format",
+    "column": "monthly_spend",
+    "expected": "89.45",
+    "duplicate_of": null
+  },
+  {
+    "row": 255,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+14049376241",
+    "duplicate_of": null
+  },
+  {
+    "row": 256,
+    "category": "outlier",
+    "column": "monthly_spend",
+    "expected": null,
+    "duplicate_of": null
+  },
+  {
+    "row": 258,
+    "category": "near_duplicate",
+    "column": null,
+    "expected": null,
+    "duplicate_of": "C10166"
+  },
+  {
+    "row": 259,
+    "category": "near_duplicate",
+    "column": null,
+    "expected": null,
+    "duplicate_of": "C10332"
+  },
+  {
+    "row": 262,
+    "category": "date_format",
+    "column": "signup_date",
+    "expected": "2024-06-13",
+    "duplicate_of": null
+  },
+  {
+    "row": 263,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+16176685043",
+    "duplicate_of": null
+  },
+  {
+    "row": 265,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+13056189180",
+    "duplicate_of": null
+  },
+  {
+    "row": 266,
+    "category": "near_duplicate",
+    "column": null,
+    "expected": null,
+    "duplicate_of": "C10054"
+  },
+  {
+    "row": 268,
+    "category": "category_variant:usa",
+    "column": "country",
+    "expected": "USA",
+    "duplicate_of": null
+  },
+  {
+    "row": 273,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+13123035687",
+    "duplicate_of": null
+  },
+  {
+    "row": 274,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+12127774939",
+    "duplicate_of": null
+  },
+  {
+    "row": 275,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+13125678415",
+    "duplicate_of": null
+  },
+  {
+    "row": 277,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+12123924555",
+    "duplicate_of": null
+  },
+  {
+    "row": 277,
+    "category": "missing",
+    "column": "city",
+    "expected": null,
+    "duplicate_of": null
+  },
+  {
+    "row": 280,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+12062821653",
+    "duplicate_of": null
+  },
+  {
+    "row": 281,
+    "category": "whitespace",
+    "column": "first_name",
+    "expected": "Mary",
+    "duplicate_of": null
+  },
+  {
+    "row": 281,
+    "category": "date_format",
+    "column": "signup_date",
+    "expected": "2024-04-23",
+    "duplicate_of": null
+  },
+  {
+    "row": 282,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+16173431417",
+    "duplicate_of": null
+  },
+  {
+    "row": 283,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+14044342104",
+    "duplicate_of": null
+  },
+  {
+    "row": 283,
+    "category": "missing",
+    "column": "city",
+    "expected": null,
+    "duplicate_of": null
+  },
+  {
+    "row": 286,
+    "category": "exact_duplicate",
+    "column": null,
+    "expected": null,
+    "duplicate_of": "C10033"
+  },
+  {
+    "row": 289,
+    "category": "whitespace",
+    "column": "first_name",
+    "expected": "Melissa",
+    "duplicate_of": null
+  },
+  {
+    "row": 289,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+13037679849",
+    "duplicate_of": null
+  },
+  {
+    "row": 290,
+    "category": "category_variant:usa",
+    "column": "country",
+    "expected": "USA",
+    "duplicate_of": null
+  },
+  {
+    "row": 293,
+    "category": "date_format",
+    "column": "signup_date",
+    "expected": "2023-06-28",
+    "duplicate_of": null
+  },
+  {
+    "row": 294,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+14154789060",
+    "duplicate_of": null
+  },
+  {
+    "row": 299,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+14153881841",
+    "duplicate_of": null
+  },
+  {
+    "row": 299,
+    "category": "category_variant:United States",
+    "column": "country",
+    "expected": "USA",
+    "duplicate_of": null
+  },
+  {
+    "row": 300,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+15124932257",
+    "duplicate_of": null
+  },
+  {
+    "row": 301,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+13055824862",
+    "duplicate_of": null
+  },
+  {
+    "row": 302,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+12069812442",
+    "duplicate_of": null
+  },
+  {
+    "row": 303,
+    "category": "null_token",
+    "column": "phone",
+    "expected": "",
+    "duplicate_of": null
+  },
+  {
+    "row": 304,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+13123532577",
+    "duplicate_of": null
+  },
+  {
+    "row": 304,
+    "category": "date_format",
+    "column": "signup_date",
+    "expected": "2023-10-30",
+    "duplicate_of": null
+  },
+  {
+    "row": 307,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+14045614941",
+    "duplicate_of": null
+  },
+  {
+    "row": 310,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+12124713170",
+    "duplicate_of": null
+  },
+  {
+    "row": 315,
+    "category": "date_format",
+    "column": "signup_date",
+    "expected": "2022-06-17",
+    "duplicate_of": null
+  },
+  {
+    "row": 319,
+    "category": "exact_duplicate",
+    "column": null,
+    "expected": null,
+    "duplicate_of": "C10166"
+  },
+  {
+    "row": 320,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+16179461887",
+    "duplicate_of": null
+  },
+  {
+    "row": 320,
+    "category": "category_variant:US",
+    "column": "country",
+    "expected": "USA",
+    "duplicate_of": null
+  },
+  {
+    "row": 321,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+12128673492",
+    "duplicate_of": null
+  },
+  {
+    "row": 323,
+    "category": "email_case",
+    "column": "email",
+    "expected": "matthew.jackson705@icloud.com",
+    "duplicate_of": null
+  },
+  {
+    "row": 323,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+13056405799",
+    "duplicate_of": null
+  },
+  {
+    "row": 326,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+13123255382",
+    "duplicate_of": null
+  },
+  {
+    "row": 328,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+14156201367",
+    "duplicate_of": null
+  },
+  {
+    "row": 330,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+13058309589",
+    "duplicate_of": null
+  },
+  {
+    "row": 331,
+    "category": "number_format",
+    "column": "monthly_spend",
+    "expected": "91.54",
+    "duplicate_of": null
+  },
+  {
+    "row": 332,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+12063744594",
+    "duplicate_of": null
+  },
+  {
+    "row": 332,
+    "category": "born_after_signup",
+    "column": "birth_date",
+    "expected": null,
+    "duplicate_of": null
+  },
+  {
+    "row": 333,
+    "category": "invalid_email",
+    "column": "email",
+    "expected": "patricia.sanchez730@proton.me",
+    "duplicate_of": null
+  },
+  {
+    "row": 335,
+    "category": "born_after_signup",
+    "column": "birth_date",
+    "expected": null,
+    "duplicate_of": null
+  },
+  {
+    "row": 337,
+    "category": "category_variant:usa",
+    "column": "country",
+    "expected": "USA",
+    "duplicate_of": null
+  },
+  {
+    "row": 339,
+    "category": "category_case",
+    "column": "plan",
+    "expected": "Pro",
+    "duplicate_of": null
+  },
+  {
+    "row": 340,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+16178192462",
+    "duplicate_of": null
+  },
+  {
+    "row": 343,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+13036123356",
+    "duplicate_of": null
+  },
+  {
+    "row": 344,
+    "category": "near_duplicate",
+    "column": null,
+    "expected": null,
+    "duplicate_of": "C10154"
+  },
+  {
+    "row": 345,
+    "category": "email_case",
+    "column": "email",
+    "expected": "michael.thomas537@gmail.com",
+    "duplicate_of": null
+  },
+  {
+    "row": 345,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+13035474630",
+    "duplicate_of": null
+  },
+  {
+    "row": 346,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+14042534568",
+    "duplicate_of": null
+  },
+  {
+    "row": 348,
+    "category": "category_variant:United States",
+    "column": "country",
+    "expected": "USA",
+    "duplicate_of": null
+  },
+  {
+    "row": 350,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+15129434836",
+    "duplicate_of": null
+  },
+  {
+    "row": 350,
+    "category": "category_variant:U.S.A.",
+    "column": "country",
+    "expected": "USA",
+    "duplicate_of": null
+  },
+  {
+    "row": 351,
+    "category": "number_format",
+    "column": "monthly_spend",
+    "expected": "31.31",
+    "duplicate_of": null
+  },
+  {
+    "row": 354,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+12068404241",
+    "duplicate_of": null
+  },
+  {
+    "row": 355,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+13124934443",
+    "duplicate_of": null
+  },
+  {
+    "row": 356,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+13126362898",
+    "duplicate_of": null
+  },
+  {
+    "row": 357,
+    "category": "null_token",
+    "column": "phone",
+    "expected": "",
+    "duplicate_of": null
+  },
+  {
+    "row": 359,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+16177791672",
+    "duplicate_of": null
+  },
+  {
+    "row": 359,
+    "category": "date_format",
+    "column": "signup_date",
+    "expected": "2024-05-14",
+    "duplicate_of": null
+  },
+  {
+    "row": 361,
+    "category": "category_variant:U.S.A.",
+    "column": "country",
+    "expected": "USA",
+    "duplicate_of": null
+  },
+  {
+    "row": 362,
+    "category": "date_format",
+    "column": "signup_date",
+    "expected": "2022-06-22",
+    "duplicate_of": null
+  },
+  {
+    "row": 364,
+    "category": "email_case",
+    "column": "email",
+    "expected": "patricia.sanchez112@outlook.com",
+    "duplicate_of": null
+  },
+  {
+    "row": 364,
+    "category": "date_format",
+    "column": "signup_date",
+    "expected": "2022-01-28",
+    "duplicate_of": null
+  },
+  {
+    "row": 367,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+12128487025",
+    "duplicate_of": null
+  },
+  {
+    "row": 367,
+    "category": "date_format",
+    "column": "signup_date",
+    "expected": "2023-06-27",
+    "duplicate_of": null
+  },
+  {
+    "row": 368,
+    "category": "email_case",
+    "column": "email",
+    "expected": "brian.smith519@gmail.com",
+    "duplicate_of": null
+  },
+  {
+    "row": 368,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+12065482917",
+    "duplicate_of": null
+  },
+  {
+    "row": 371,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+15124114390",
+    "duplicate_of": null
+  },
+  {
+    "row": 371,
+    "category": "date_format",
+    "column": "signup_date",
+    "expected": "2021-12-06",
+    "duplicate_of": null
+  },
+  {
+    "row": 373,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+13039853248",
+    "duplicate_of": null
+  },
+  {
+    "row": 373,
+    "category": "missing",
+    "column": "city",
+    "expected": null,
+    "duplicate_of": null
+  },
+  {
+    "row": 374,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+16172898193",
+    "duplicate_of": null
+  },
+  {
+    "row": 375,
+    "category": "date_format",
+    "column": "signup_date",
+    "expected": "2022-03-15",
+    "duplicate_of": null
+  },
+  {
+    "row": 376,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+14156709785",
+    "duplicate_of": null
+  },
+  {
+    "row": 377,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+13128871891",
+    "duplicate_of": null
+  },
+  {
+    "row": 383,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+12067247685",
+    "duplicate_of": null
+  },
+  {
+    "row": 387,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+14047043390",
+    "duplicate_of": null
+  },
+  {
+    "row": 388,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+14046345097",
+    "duplicate_of": null
+  },
+  {
+    "row": 392,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+12126948178",
+    "duplicate_of": null
+  },
+  {
+    "row": 393,
+    "category": "email_case",
+    "column": "email",
+    "expected": "william.ramirez496@gmail.com",
+    "duplicate_of": null
+  },
+  {
+    "row": 395,
+    "category": "email_case",
+    "column": "email",
+    "expected": "laura.johnson609@icloud.com",
+    "duplicate_of": null
+  },
+  {
+    "row": 397,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+13057894185",
+    "duplicate_of": null
+  },
+  {
+    "row": 398,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+14045898381",
+    "duplicate_of": null
+  },
+  {
+    "row": 402,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+15129669393",
+    "duplicate_of": null
+  },
+  {
+    "row": 403,
+    "category": "category_variant:usa",
+    "column": "country",
+    "expected": "USA",
+    "duplicate_of": null
+  },
+  {
+    "row": 403,
+    "category": "outlier",
+    "column": "monthly_spend",
+    "expected": null,
+    "duplicate_of": null
+  },
+  {
+    "row": 410,
+    "category": "born_after_signup",
+    "column": "birth_date",
+    "expected": null,
+    "duplicate_of": null
+  },
+  {
+    "row": 411,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+14047191333",
+    "duplicate_of": null
+  },
+  {
+    "row": 412,
+    "category": "date_format",
+    "column": "signup_date",
+    "expected": "2023-11-20",
+    "duplicate_of": null
+  },
+  {
+    "row": 415,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+13056829806",
+    "duplicate_of": null
+  },
+  {
+    "row": 415,
+    "category": "category_case",
+    "column": "plan",
+    "expected": "Basic",
+    "duplicate_of": null
+  },
+  {
+    "row": 416,
+    "category": "invalid_email",
+    "column": "email",
+    "expected": "mary.anderson860@gmail.com",
+    "duplicate_of": null
+  },
+  {
+    "row": 418,
+    "category": "exact_duplicate",
+    "column": null,
+    "expected": null,
+    "duplicate_of": "C10179"
+  },
+  {
+    "row": 419,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+15126488412",
+    "duplicate_of": null
+  },
+  {
+    "row": 423,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+16175727274",
+    "duplicate_of": null
+  },
+  {
+    "row": 424,
+    "category": "null_token",
+    "column": "phone",
+    "expected": "",
+    "duplicate_of": null
+  },
+  {
+    "row": 426,
+    "category": "exact_duplicate",
+    "column": null,
+    "expected": null,
+    "duplicate_of": "C10057"
+  },
+  {
+    "row": 428,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+15125635783",
+    "duplicate_of": null
+  },
+  {
+    "row": 429,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+16175979026",
+    "duplicate_of": null
+  },
+  {
+    "row": 430,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+13032129561",
+    "duplicate_of": null
+  },
+  {
+    "row": 430,
+    "category": "outlier",
+    "column": "monthly_spend",
+    "expected": null,
+    "duplicate_of": null
+  },
+  {
+    "row": 431,
+    "category": "whitespace",
+    "column": "first_name",
+    "expected": "John",
+    "duplicate_of": null
+  },
+  {
+    "row": 431,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+12126307135",
+    "duplicate_of": null
+  },
+  {
+    "row": 432,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+13129213320",
+    "duplicate_of": null
+  },
+  {
+    "row": 440,
+    "category": "category_variant:U.S.A.",
+    "column": "country",
+    "expected": "USA",
+    "duplicate_of": null
+  },
+  {
+    "row": 442,
+    "category": "email_case",
+    "column": "email",
+    "expected": "melissa.hernandez873@icloud.com",
+    "duplicate_of": null
+  },
+  {
+    "row": 444,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+15128699666",
+    "duplicate_of": null
+  },
+  {
+    "row": 444,
+    "category": "category_case",
+    "column": "plan",
+    "expected": "Basic",
+    "duplicate_of": null
+  },
+  {
+    "row": 445,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+14152477568",
+    "duplicate_of": null
+  },
+  {
+    "row": 448,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+12067277524",
+    "duplicate_of": null
+  },
+  {
+    "row": 452,
+    "category": "invalid_email",
+    "column": "email",
+    "expected": "steven.anderson885@gmail.com",
+    "duplicate_of": null
+  },
+  {
+    "row": 453,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+14154746289",
+    "duplicate_of": null
+  },
+  {
+    "row": 454,
+    "category": "whitespace",
+    "column": "first_name",
+    "expected": "James",
+    "duplicate_of": null
+  },
+  {
+    "row": 454,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+14154113798",
+    "duplicate_of": null
+  },
+  {
+    "row": 454,
+    "category": "category_case",
+    "column": "plan",
+    "expected": "Basic",
+    "duplicate_of": null
+  },
+  {
+    "row": 459,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+13127998912",
+    "duplicate_of": null
+  },
+  {
+    "row": 461,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+13123292101",
+    "duplicate_of": null
+  },
+  {
+    "row": 467,
+    "category": "email_case",
+    "column": "email",
+    "expected": "james.white575@icloud.com",
+    "duplicate_of": null
+  },
+  {
+    "row": 467,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+16179547385",
+    "duplicate_of": null
+  },
+  {
+    "row": 467,
+    "category": "missing",
+    "column": "city",
+    "expected": null,
+    "duplicate_of": null
+  },
+  {
+    "row": 467,
+    "category": "outlier",
+    "column": "monthly_spend",
+    "expected": null,
+    "duplicate_of": null
+  },
+  {
+    "row": 469,
+    "category": "category_variant:United States",
+    "column": "country",
+    "expected": "USA",
+    "duplicate_of": null
+  },
+  {
+    "row": 471,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+15125892404",
+    "duplicate_of": null
+  },
+  {
+    "row": 472,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+12064515835",
+    "duplicate_of": null
+  },
+  {
+    "row": 475,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+15123863209",
+    "duplicate_of": null
+  },
+  {
+    "row": 476,
+    "category": "null_token",
+    "column": "phone",
+    "expected": "",
+    "duplicate_of": null
+  },
+  {
+    "row": 477,
+    "category": "email_case",
+    "column": "email",
+    "expected": "mary.garcia612@proton.me",
+    "duplicate_of": null
+  },
+  {
+    "row": 477,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+15124987779",
+    "duplicate_of": null
+  },
+  {
+    "row": 477,
+    "category": "missing",
+    "column": "city",
+    "expected": null,
+    "duplicate_of": null
+  },
+  {
+    "row": 478,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+14047032494",
+    "duplicate_of": null
+  },
+  {
+    "row": 480,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+12128885415",
+    "duplicate_of": null
+  },
+  {
+    "row": 481,
+    "category": "invalid_email",
+    "column": "email",
+    "expected": "melissa.jones75@yahoo.com",
+    "duplicate_of": null
+  },
+  {
+    "row": 483,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+13127786990",
+    "duplicate_of": null
+  },
+  {
+    "row": 486,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+14047673627",
+    "duplicate_of": null
+  },
+  {
+    "row": 486,
+    "category": "category_case",
+    "column": "plan",
+    "expected": "Basic",
+    "duplicate_of": null
+  },
+  {
+    "row": 488,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+14152739899",
+    "duplicate_of": null
+  },
+  {
+    "row": 490,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+14155937564",
+    "duplicate_of": null
+  },
+  {
+    "row": 491,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+13037644522",
+    "duplicate_of": null
+  },
+  {
+    "row": 492,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+13036605246",
+    "duplicate_of": null
+  },
+  {
+    "row": 495,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+12063353837",
+    "duplicate_of": null
+  },
+  {
+    "row": 497,
+    "category": "date_format",
+    "column": "signup_date",
+    "expected": "2024-08-07",
+    "duplicate_of": null
+  },
+  {
+    "row": 498,
+    "category": "whitespace",
+    "column": "first_name",
+    "expected": "Sarah",
+    "duplicate_of": null
+  },
+  {
+    "row": 498,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+12064412017",
+    "duplicate_of": null
+  },
+  {
+    "row": 503,
+    "category": "number_format",
+    "column": "monthly_spend",
+    "expected": "30.25",
+    "duplicate_of": null
+  },
+  {
+    "row": 504,
+    "category": "email_case",
+    "column": "email",
+    "expected": "jessica.gonzalez245@outlook.com",
+    "duplicate_of": null
+  },
+  {
+    "row": 507,
+    "category": "whitespace",
+    "column": "first_name",
+    "expected": "Jessica",
+    "duplicate_of": null
+  },
+  {
+    "row": 509,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+14043909176",
+    "duplicate_of": null
+  },
+  {
+    "row": 511,
+    "category": "category_variant:usa",
+    "column": "country",
+    "expected": "USA",
+    "duplicate_of": null
+  },
+  {
+    "row": 514,
+    "category": "born_after_signup",
+    "column": "birth_date",
+    "expected": null,
+    "duplicate_of": null
+  },
+  {
+    "row": 516,
+    "category": "phone_format",
+    "column": "phone",
+    "expected": "+13052155421",
+    "duplicate_of": null
+  },
+  {
+    "row": 519,
+    "category": "null_token",
+    "column": "phone",
+    "expected": "",
+    "duplicate_of": null
+  },
+  {
+    "row": 519,
+    "category": "category_case",
+    "column": "plan",
+    "expected": "Basic",
+    "duplicate_of": null
+  }
+]
