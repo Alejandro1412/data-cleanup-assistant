@@ -9,3 +9,4 @@ backend/data/
 node_modules/
 frontend/dist/
 .DS_Store
+*.tsbuildinfo
