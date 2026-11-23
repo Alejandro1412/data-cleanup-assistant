@@ -103,15 +103,15 @@ make sample      # regenerate sample_data/ (fixed seed, so the numbers below are
 make evaluate
 ```
 
-Results with the rule-based checks only:
+Results on the sample file:
 
-| | |
-|---|---|
-| Recall (injected problems found) | 94.2% |
-| Precision (suggestions that point at a real problem) | 100% |
-| Proposed fixes that restore the original value | 268 of 268 |
+| | Rules only | Rules and AI (`claude-sonnet-5-5`) |
+|---|---|---|
+| Recall (injected problems found) | 94.2% | 98.8% |
+| Precision (suggestions that point at a real problem) | 100% | 100% |
+| Country synonyms found (`United States`, `US`) | 16 of 30 | 30 of 30 |
 
-The problems the rules miss are the ones they are not designed to catch: country synonyms (`United States`, `US`) and birth dates that fall after the signup date. Those are the cases the AI checks are for. Set `ANTHROPIC_API_KEY` and run `make evaluate` again to measure them.
+The rules miss what they are not designed to catch: synonyms that need world knowledge, and records that contradict themselves. The AI closes almost all of that gap. The one weak spot is birth dates that fall after the signup date: the record review sees a sample of 60 rows, so it found 1 of the 5. Raising `LLM_MAX_REVIEW_ROWS` trades cost for coverage there.
 
 ## Tests and quality checks
 
