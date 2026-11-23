@@ -80,7 +80,7 @@ The frontend is React with TypeScript, built with Vite. TanStack Query handles s
 
 **The model never sees the whole file.** Each AI job gets only what it needs: the distinct values of one column, the two rows of a candidate pair, or a sample of at most 60 rows. This keeps prompts small regardless of file size and limits how much data leaves the server. The limits are configurable.
 
-**Model output is validated against the input.** Responses are requested as structured output (a forced tool call with a JSON schema) and parsed with Pydantic. Any answer that refers to a value, pair, row or column that was not in the request is discarded. The system prompt tells the model that cell contents are untrusted data, which matters because a CSV can contain text written to manipulate it.
+**Model output is validated against the input.** Responses are requested through the API's structured outputs with a JSON schema generated from Pydantic models, then validated again with Pydantic. Any answer that refers to a value, pair, row or column that was not in the request is discarded. The system prompt tells the model that cell contents are untrusted data, which matters because a CSV can contain text written to manipulate it.
 
 **The AI is optional and can fail safely.** Each AI job runs separately. If the API key is missing, a request times out, or the response is malformed, that job is skipped, the UI shows a warning, and the rule-based results are still returned.
 
@@ -116,7 +116,7 @@ The problems the rules miss are the ones they are not designed to catch: country
 ## Tests and quality checks
 
 ```bash
-make test    # 57 backend tests + frontend type check and build
+make test    # 62 backend tests + frontend type check and build
 make lint    # ruff, ruff format, mypy --strict, eslint
 ```
 

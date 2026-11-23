@@ -36,7 +36,7 @@ def test_rules_only_run_reports_that_ai_is_off() -> None:
 def test_ai_category_mapping_handles_synonyms_rules_cannot_see() -> None:
     provider = FakeProvider(
         {
-            "report_category_changes": {
+            "category_changes": {
                 "changes": [
                     {
                         "value": "United States",
@@ -58,12 +58,12 @@ def test_ai_category_mapping_handles_synonyms_rules_cannot_see() -> None:
 def test_ai_results_referring_to_unknown_data_are_dropped() -> None:
     provider = FakeProvider(
         {
-            "report_category_changes": {
+            "category_changes": {
                 "changes": [
                     {"value": "Atlantis", "canonical": "USA", "confidence": 0.9, "reason": "x"},
                 ]
             },
-            "report_record_issues": {
+            "record_issues": {
                 "issues": [
                     {"row": 999, "column": "age", "problem": "x", "confidence": 0.9},
                     {"row": 1, "column": "no_such_column", "problem": "x", "confidence": 0.9},
@@ -98,8 +98,8 @@ def test_ai_can_confirm_or_dismiss_duplicates() -> None:
             ]
         }
 
-    dismissed, _ = _analyze(FakeProvider({"report_duplicate_decisions": dismiss}))
-    confirmed, _ = _analyze(FakeProvider({"report_duplicate_decisions": confirm}))
+    dismissed, _ = _analyze(FakeProvider({"duplicate_decisions": dismiss}))
+    confirmed, _ = _analyze(FakeProvider({"duplicate_decisions": confirm}))
 
     assert not any(s.kind is IssueKind.NEAR_DUPLICATE for s in dismissed)
     [duplicate] = [s for s in confirmed if s.kind is IssueKind.NEAR_DUPLICATE]
@@ -110,7 +110,7 @@ def test_ai_can_confirm_or_dismiss_duplicates() -> None:
 def test_ai_record_review_adds_suspicious_records() -> None:
     provider = FakeProvider(
         {
-            "report_record_issues": {
+            "record_issues": {
                 "issues": [
                     {
                         "row": 5,
@@ -131,7 +131,7 @@ def test_ai_record_review_adds_suspicious_records() -> None:
 
 
 def test_a_failing_ai_pass_is_skipped_and_reported() -> None:
-    provider = FakeProvider({"report_duplicate_decisions": LLMError("timeout")})
+    provider = FakeProvider({"duplicate_decisions": LLMError("timeout")})
 
     suggestions, warnings = _analyze(provider)
 
@@ -147,7 +147,7 @@ def test_prompts_never_include_rows_beyond_the_configured_sample() -> None:
 
     Analyzer(settings, AIReviewer(provider)).run(big)
 
-    [prompt] = provider.prompts["report_record_issues"]
+    [prompt] = provider.prompts["record_issues"]
     assert prompt.count('"row":') == 20
 
 

@@ -10,13 +10,13 @@ class LLMError(Exception):
 class LLMProvider(Protocol):
     """The only thing the rest of the app knows about the model.
 
-    Implementations must return the arguments of a forced tool call, which is
-    how structured output is obtained: the model has to answer by "calling" a
-    tool whose input schema is the response schema.
+    Implementations return a JSON object that follows `schema`. The Anthropic
+    adapter gets it through structured outputs, so the API itself constrains
+    the response to the schema.
     """
 
     model: str
 
     def complete_json(
-        self, *, system: str, prompt: str, tool_name: str, schema: dict[str, Any]
+        self, *, system: str, prompt: str, task: str, schema: dict[str, Any]
     ) -> dict[str, Any]: ...

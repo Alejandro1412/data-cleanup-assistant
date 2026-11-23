@@ -21,10 +21,10 @@ class FakeProvider:
         self.prompts: dict[str, list[str]] = {}
 
     def complete_json(
-        self, *, system: str, prompt: str, tool_name: str, schema: dict[str, Any]
+        self, *, system: str, prompt: str, task: str, schema: dict[str, Any]
     ) -> dict[str, Any]:
-        self.prompts.setdefault(tool_name, []).append(prompt)
-        response = self.responses.get(tool_name)
+        self.prompts.setdefault(task, []).append(prompt)
+        response = self.responses.get(task)
         if response is None:
             return {"changes": [], "decisions": [], "issues": []}
         if isinstance(response, Exception):

@@ -15,7 +15,7 @@ dependencies = [
     "python-dateutil>=2.9",
     "charset-normalizer>=3.3",
     "phonenumbers>=8.13",
-    "anthropic>=0.40",
+    "anthropic>=2.0",
 ]
 
 [project.optional-dependencies]

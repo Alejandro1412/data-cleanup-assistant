@@ -27,7 +27,7 @@ class CachedProvider:
         self.model = inner.model
 
     def complete_json(
-        self, *, system: str, prompt: str, tool_name: str, schema: dict[str, Any]
+        self, *, system: str, prompt: str, task: str, schema: dict[str, Any]
     ) -> dict[str, Any]:
         payload = json.dumps(
             {"model": self.model, "system": system, "prompt": prompt, "schema": schema},
@@ -37,8 +37,6 @@ class CachedProvider:
         cached = self._store.get(key)
         if cached is not None:
             return cached
-        result = self._inner.complete_json(
-            system=system, prompt=prompt, tool_name=tool_name, schema=schema
-        )
+        result = self._inner.complete_json(system=system, prompt=prompt, task=task, schema=schema)
         self._store.set(key, result)
         return result
